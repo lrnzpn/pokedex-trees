@@ -1,0 +1,719 @@
+Generation,Legendary,Type1,Type2,Name
+Gen 1,Not Legendary,Grass,Poison,Bulbasaur
+Gen 1,Not Legendary,Grass,Poison,Ivysaur
+Gen 1,Not Legendary,Grass,Poison,Venusaur
+Gen 1,Not Legendary,Grass,Poison,VenusaurMega Venusaur
+Gen 1,Not Legendary,Fire,None,Charmander
+Gen 1,Not Legendary,Fire,None,Charmeleon
+Gen 1,Not Legendary,Fire,Flying,Charizard
+Gen 1,Not Legendary,Fire,Dragon,CharizardMega Charizard X
+Gen 1,Not Legendary,Fire,Flying,CharizardMega Charizard Y
+Gen 1,Not Legendary,Water,None,Squirtle
+Gen 1,Not Legendary,Water,None,Wartortle
+Gen 1,Not Legendary,Water,None,Blastoise
+Gen 1,Not Legendary,Water,None,BlastoiseMega Blastoise
+Gen 1,Not Legendary,Bug,None,Caterpie
+Gen 1,Not Legendary,Bug,None,Metapod
+Gen 1,Not Legendary,Bug,Flying,Butterfree
+Gen 1,Not Legendary,Bug,Poison,Weedle
+Gen 1,Not Legendary,Bug,Poison,Kakuna
+Gen 1,Not Legendary,Bug,Poison,Beedrill
+Gen 1,Not Legendary,Bug,Poison,BeedrillMega Beedrill
+Gen 1,Not Legendary,Normal,Flying,Pidgey
+Gen 1,Not Legendary,Normal,Flying,Pidgeotto
+Gen 1,Not Legendary,Normal,Flying,Pidgeot
+Gen 1,Not Legendary,Normal,Flying,PidgeotMega Pidgeot
+Gen 1,Not Legendary,Normal,None,Rattata
+Gen 1,Not Legendary,Normal,None,Raticate
+Gen 1,Not Legendary,Normal,Flying,Spearow
+Gen 1,Not Legendary,Normal,Flying,Fearow
+Gen 1,Not Legendary,Poison,None,Ekans
+Gen 1,Not Legendary,Poison,None,Arbok
+Gen 1,Not Legendary,Electric,None,Pikachu
+Gen 1,Not Legendary,Electric,None,Raichu
+Gen 1,Not Legendary,Ground,None,Sandshrew
+Gen 1,Not Legendary,Ground,None,Sandslash
+Gen 1,Not Legendary,Poison,None,Nidoran♀
+Gen 1,Not Legendary,Poison,None,Nidorina
+Gen 1,Not Legendary,Poison,Ground,Nidoqueen
+Gen 1,Not Legendary,Poison,None,Nidoran♂
+Gen 1,Not Legendary,Poison,None,Nidorino
+Gen 1,Not Legendary,Poison,Ground,Nidoking
+Gen 1,Not Legendary,Fairy,None,Clefairy
+Gen 1,Not Legendary,Fairy,None,Clefable
+Gen 1,Not Legendary,Fire,None,Vulpix
+Gen 1,Not Legendary,Fire,None,Ninetales
+Gen 1,Not Legendary,Normal,Fairy,Jigglypuff
+Gen 1,Not Legendary,Normal,Fairy,Wigglytuff
+Gen 1,Not Legendary,Poison,Flying,Zubat
+Gen 1,Not Legendary,Poison,Flying,Golbat
+Gen 1,Not Legendary,Grass,Poison,Oddish
+Gen 1,Not Legendary,Grass,Poison,Gloom
+Gen 1,Not Legendary,Grass,Poison,Vileplume
+Gen 1,Not Legendary,Bug,Grass,Paras
+Gen 1,Not Legendary,Bug,Grass,Parasect
+Gen 1,Not Legendary,Bug,Poison,Venonat
+Gen 1,Not Legendary,Bug,Poison,Venomoth
+Gen 1,Not Legendary,Ground,None,Diglett
+Gen 1,Not Legendary,Ground,None,Dugtrio
+Gen 1,Not Legendary,Normal,None,Meowth
+Gen 1,Not Legendary,Normal,None,Persian
+Gen 1,Not Legendary,Water,None,Psyduck
+Gen 1,Not Legendary,Water,None,Golduck
+Gen 1,Not Legendary,Fighting,None,Mankey
+Gen 1,Not Legendary,Fighting,None,Primeape
+Gen 1,Not Legendary,Fire,None,Growlithe
+Gen 1,Not Legendary,Fire,None,Arcanine
+Gen 1,Not Legendary,Water,None,Poliwag
+Gen 1,Not Legendary,Water,None,Poliwhirl
+Gen 1,Not Legendary,Water,Fighting,Poliwrath
+Gen 1,Not Legendary,Psychic,None,Abra
+Gen 1,Not Legendary,Psychic,None,Kadabra
+Gen 1,Not Legendary,Psychic,None,Alakazam
+Gen 1,Not Legendary,Psychic,None,AlakazamMega Alakazam
+Gen 1,Not Legendary,Fighting,None,Machop
+Gen 1,Not Legendary,Fighting,None,Machoke
+Gen 1,Not Legendary,Fighting,None,Machamp
+Gen 1,Not Legendary,Grass,Poison,Bellsprout
+Gen 1,Not Legendary,Grass,Poison,Weepinbell
+Gen 1,Not Legendary,Grass,Poison,Victreebel
+Gen 1,Not Legendary,Water,Poison,Tentacool
+Gen 1,Not Legendary,Water,Poison,Tentacruel
+Gen 1,Not Legendary,Rock,Ground,Geodude
+Gen 1,Not Legendary,Rock,Ground,Graveler
+Gen 1,Not Legendary,Rock,Ground,Golem
+Gen 1,Not Legendary,Fire,None,Ponyta
+Gen 1,Not Legendary,Fire,None,Rapidash
+Gen 1,Not Legendary,Water,Psychic,Slowpoke
+Gen 1,Not Legendary,Water,Psychic,Slowbro
+Gen 1,Not Legendary,Water,Psychic,SlowbroMega Slowbro
+Gen 1,Not Legendary,Electric,Steel,Magnemite
+Gen 1,Not Legendary,Electric,Steel,Magneton
+Gen 1,Not Legendary,Normal,Flying,Farfetch'd
+Gen 1,Not Legendary,Normal,Flying,Doduo
+Gen 1,Not Legendary,Normal,Flying,Dodrio
+Gen 1,Not Legendary,Water,None,Seel
+Gen 1,Not Legendary,Water,Ice,Dewgong
+Gen 1,Not Legendary,Poison,None,Grimer
+Gen 1,Not Legendary,Poison,None,Muk
+Gen 1,Not Legendary,Water,None,Shellder
+Gen 1,Not Legendary,Water,Ice,Cloyster
+Gen 1,Not Legendary,Ghost,Poison,Gastly
+Gen 1,Not Legendary,Ghost,Poison,Haunter
+Gen 1,Not Legendary,Ghost,Poison,Gengar
+Gen 1,Not Legendary,Ghost,Poison,GengarMega Gengar
+Gen 1,Not Legendary,Rock,Ground,Onix
+Gen 1,Not Legendary,Psychic,None,Drowzee
+Gen 1,Not Legendary,Psychic,None,Hypno
+Gen 1,Not Legendary,Water,None,Krabby
+Gen 1,Not Legendary,Water,None,Kingler
+Gen 1,Not Legendary,Electric,None,Voltorb
+Gen 1,Not Legendary,Electric,None,Electrode
+Gen 1,Not Legendary,Grass,Psychic,Exeggcute
+Gen 1,Not Legendary,Grass,Psychic,Exeggutor
+Gen 1,Not Legendary,Ground,None,Cubone
+Gen 1,Not Legendary,Ground,None,Marowak
+Gen 1,Not Legendary,Fighting,None,Hitmonlee
+Gen 1,Not Legendary,Fighting,None,Hitmonchan
+Gen 1,Not Legendary,Normal,None,Lickitung
+Gen 1,Not Legendary,Poison,None,Koffing
+Gen 1,Not Legendary,Poison,None,Weezing
+Gen 1,Not Legendary,Ground,Rock,Rhyhorn
+Gen 1,Not Legendary,Ground,Rock,Rhydon
+Gen 1,Not Legendary,Normal,None,Chansey
+Gen 1,Not Legendary,Grass,None,Tangela
+Gen 1,Not Legendary,Normal,None,Kangaskhan
+Gen 1,Not Legendary,Normal,None,KangaskhanMega Kangaskhan
+Gen 1,Not Legendary,Water,None,Horsea
+Gen 1,Not Legendary,Water,None,Seadra
+Gen 1,Not Legendary,Water,None,Goldeen
+Gen 1,Not Legendary,Water,None,Seaking
+Gen 1,Not Legendary,Water,None,Staryu
+Gen 1,Not Legendary,Water,Psychic,Starmie
+Gen 1,Not Legendary,Psychic,Fairy,Mr. Mime
+Gen 1,Not Legendary,Bug,Flying,Scyther
+Gen 1,Not Legendary,Ice,Psychic,Jynx
+Gen 1,Not Legendary,Electric,None,Electabuzz
+Gen 1,Not Legendary,Fire,None,Magmar
+Gen 1,Not Legendary,Bug,None,Pinsir
+Gen 1,Not Legendary,Bug,Flying,PinsirMega Pinsir
+Gen 1,Not Legendary,Normal,None,Tauros
+Gen 1,Not Legendary,Water,None,Magikarp
+Gen 1,Not Legendary,Water,Flying,Gyarados
+Gen 1,Not Legendary,Water,Dark,GyaradosMega Gyarados
+Gen 1,Not Legendary,Water,Ice,Lapras
+Gen 1,Not Legendary,Normal,None,Ditto
+Gen 1,Not Legendary,Normal,None,Eevee
+Gen 1,Not Legendary,Water,None,Vaporeon
+Gen 1,Not Legendary,Electric,None,Jolteon
+Gen 1,Not Legendary,Fire,None,Flareon
+Gen 1,Not Legendary,Normal,None,Porygon
+Gen 1,Not Legendary,Rock,Water,Omanyte
+Gen 1,Not Legendary,Rock,Water,Omastar
+Gen 1,Not Legendary,Rock,Water,Kabuto
+Gen 1,Not Legendary,Rock,Water,Kabutops
+Gen 1,Not Legendary,Rock,Flying,Aerodactyl
+Gen 1,Not Legendary,Rock,Flying,AerodactylMega Aerodactyl
+Gen 1,Not Legendary,Normal,None,Snorlax
+Gen 1,Legendary,Ice,Flying,Articuno
+Gen 1,Legendary,Electric,Flying,Zapdos
+Gen 1,Legendary,Fire,Flying,Moltres
+Gen 1,Not Legendary,Dragon,None,Dratini
+Gen 1,Not Legendary,Dragon,None,Dragonair
+Gen 1,Not Legendary,Dragon,Flying,Dragonite
+Gen 1,Legendary,Psychic,None,Mewtwo
+Gen 1,Legendary,Psychic,Fighting,MewtwoMega Mewtwo X
+Gen 1,Legendary,Psychic,None,MewtwoMega Mewtwo Y
+Gen 1,Not Legendary,Psychic,None,Mew
+Gen 2,Not Legendary,Grass,None,Chikorita
+Gen 2,Not Legendary,Grass,None,Bayleef
+Gen 2,Not Legendary,Grass,None,Meganium
+Gen 2,Not Legendary,Fire,None,Cyndaquil
+Gen 2,Not Legendary,Fire,None,Quilava
+Gen 2,Not Legendary,Fire,None,Typhlosion
+Gen 2,Not Legendary,Water,None,Totodile
+Gen 2,Not Legendary,Water,None,Croconaw
+Gen 2,Not Legendary,Water,None,Feraligatr
+Gen 2,Not Legendary,Normal,None,Sentret
+Gen 2,Not Legendary,Normal,None,Furret
+Gen 2,Not Legendary,Normal,Flying,Hoothoot
+Gen 2,Not Legendary,Normal,Flying,Noctowl
+Gen 2,Not Legendary,Bug,Flying,Ledyba
+Gen 2,Not Legendary,Bug,Flying,Ledian
+Gen 2,Not Legendary,Bug,Poison,Spinarak
+Gen 2,Not Legendary,Bug,Poison,Ariados
+Gen 2,Not Legendary,Poison,Flying,Crobat
+Gen 2,Not Legendary,Water,Electric,Chinchou
+Gen 2,Not Legendary,Water,Electric,Lanturn
+Gen 2,Not Legendary,Electric,None,Pichu
+Gen 2,Not Legendary,Fairy,None,Cleffa
+Gen 2,Not Legendary,Normal,Fairy,Igglybuff
+Gen 2,Not Legendary,Fairy,None,Togepi
+Gen 2,Not Legendary,Fairy,Flying,Togetic
+Gen 2,Not Legendary,Psychic,Flying,Natu
+Gen 2,Not Legendary,Psychic,Flying,Xatu
+Gen 2,Not Legendary,Electric,None,Mareep
+Gen 2,Not Legendary,Electric,None,Flaaffy
+Gen 2,Not Legendary,Electric,None,Ampharos
+Gen 2,Not Legendary,Electric,Dragon,AmpharosMega Ampharos
+Gen 2,Not Legendary,Grass,None,Bellossom
+Gen 2,Not Legendary,Water,Fairy,Marill
+Gen 2,Not Legendary,Water,Fairy,Azumarill
+Gen 2,Not Legendary,Rock,None,Sudowoodo
+Gen 2,Not Legendary,Water,None,Politoed
+Gen 2,Not Legendary,Grass,Flying,Hoppip
+Gen 2,Not Legendary,Grass,Flying,Skiploom
+Gen 2,Not Legendary,Grass,Flying,Jumpluff
+Gen 2,Not Legendary,Normal,None,Aipom
+Gen 2,Not Legendary,Grass,None,Sunkern
+Gen 2,Not Legendary,Grass,None,Sunflora
+Gen 2,Not Legendary,Bug,Flying,Yanma
+Gen 2,Not Legendary,Water,Ground,Wooper
+Gen 2,Not Legendary,Water,Ground,Quagsire
+Gen 2,Not Legendary,Psychic,None,Espeon
+Gen 2,Not Legendary,Dark,None,Umbreon
+Gen 2,Not Legendary,Dark,Flying,Murkrow
+Gen 2,Not Legendary,Water,Psychic,Slowking
+Gen 2,Not Legendary,Ghost,None,Misdreavus
+Gen 2,Not Legendary,Psychic,None,Unown
+Gen 2,Not Legendary,Psychic,None,Wobbuffet
+Gen 2,Not Legendary,Normal,Psychic,Girafarig
+Gen 2,Not Legendary,Bug,None,Pineco
+Gen 2,Not Legendary,Bug,Steel,Forretress
+Gen 2,Not Legendary,Normal,None,Dunsparce
+Gen 2,Not Legendary,Ground,Flying,Gligar
+Gen 2,Not Legendary,Steel,Ground,Steelix
+Gen 2,Not Legendary,Steel,Ground,SteelixMega Steelix
+Gen 2,Not Legendary,Fairy,None,Snubbull
+Gen 2,Not Legendary,Fairy,None,Granbull
+Gen 2,Not Legendary,Water,Poison,Qwilfish
+Gen 2,Not Legendary,Bug,Steel,Scizor
+Gen 2,Not Legendary,Bug,Steel,ScizorMega Scizor
+Gen 2,Not Legendary,Bug,Rock,Shuckle
+Gen 2,Not Legendary,Bug,Fighting,Heracross
+Gen 2,Not Legendary,Bug,Fighting,HeracrossMega Heracross
+Gen 2,Not Legendary,Dark,Ice,Sneasel
+Gen 2,Not Legendary,Normal,None,Teddiursa
+Gen 2,Not Legendary,Normal,None,Ursaring
+Gen 2,Not Legendary,Fire,None,Slugma
+Gen 2,Not Legendary,Fire,Rock,Magcargo
+Gen 2,Not Legendary,Ice,Ground,Swinub
+Gen 2,Not Legendary,Ice,Ground,Piloswine
+Gen 2,Not Legendary,Water,Rock,Corsola
+Gen 2,Not Legendary,Water,None,Remoraid
+Gen 2,Not Legendary,Water,None,Octillery
+Gen 2,Not Legendary,Ice,Flying,Delibird
+Gen 2,Not Legendary,Water,Flying,Mantine
+Gen 2,Not Legendary,Steel,Flying,Skarmory
+Gen 2,Not Legendary,Dark,Fire,Houndour
+Gen 2,Not Legendary,Dark,Fire,Houndoom
+Gen 2,Not Legendary,Dark,Fire,HoundoomMega Houndoom
+Gen 2,Not Legendary,Water,Dragon,Kingdra
+Gen 2,Not Legendary,Ground,None,Phanpy
+Gen 2,Not Legendary,Ground,None,Donphan
+Gen 2,Not Legendary,Normal,None,Porygon2
+Gen 2,Not Legendary,Normal,None,Stantler
+Gen 2,Not Legendary,Normal,None,Smeargle
+Gen 2,Not Legendary,Fighting,None,Tyrogue
+Gen 2,Not Legendary,Fighting,None,Hitmontop
+Gen 2,Not Legendary,Ice,Psychic,Smoochum
+Gen 2,Not Legendary,Electric,None,Elekid
+Gen 2,Not Legendary,Fire,None,Magby
+Gen 2,Not Legendary,Normal,None,Miltank
+Gen 2,Not Legendary,Normal,None,Blissey
+Gen 2,Legendary,Electric,None,Raikou
+Gen 2,Legendary,Fire,None,Entei
+Gen 2,Legendary,Water,None,Suicune
+Gen 2,Not Legendary,Rock,Ground,Larvitar
+Gen 2,Not Legendary,Rock,Ground,Pupitar
+Gen 2,Not Legendary,Rock,Dark,Tyranitar
+Gen 2,Not Legendary,Rock,Dark,TyranitarMega Tyranitar
+Gen 2,Legendary,Psychic,Flying,Lugia
+Gen 2,Legendary,Fire,Flying,Ho-oh
+Gen 2,Not Legendary,Psychic,Grass,Celebi
+Gen 3,Not Legendary,Grass,None,Treecko
+Gen 3,Not Legendary,Grass,None,Grovyle
+Gen 3,Not Legendary,Grass,None,Sceptile
+Gen 3,Not Legendary,Grass,Dragon,SceptileMega Sceptile
+Gen 3,Not Legendary,Fire,None,Torchic
+Gen 3,Not Legendary,Fire,Fighting,Combusken
+Gen 3,Not Legendary,Fire,Fighting,Blaziken
+Gen 3,Not Legendary,Fire,Fighting,BlazikenMega Blaziken
+Gen 3,Not Legendary,Water,None,Mudkip
+Gen 3,Not Legendary,Water,Ground,Marshtomp
+Gen 3,Not Legendary,Water,Ground,Swampert
+Gen 3,Not Legendary,Water,Ground,SwampertMega Swampert
+Gen 3,Not Legendary,Dark,None,Poochyena
+Gen 3,Not Legendary,Dark,None,Mightyena
+Gen 3,Not Legendary,Normal,None,Zigzagoon
+Gen 3,Not Legendary,Normal,None,Linoone
+Gen 3,Not Legendary,Bug,None,Wurmple
+Gen 3,Not Legendary,Bug,None,Silcoon
+Gen 3,Not Legendary,Bug,Flying,Beautifly
+Gen 3,Not Legendary,Bug,None,Cascoon
+Gen 3,Not Legendary,Bug,Poison,Dustox
+Gen 3,Not Legendary,Water,Grass,Lotad
+Gen 3,Not Legendary,Water,Grass,Lombre
+Gen 3,Not Legendary,Water,Grass,Ludicolo
+Gen 3,Not Legendary,Grass,None,Seedot
+Gen 3,Not Legendary,Grass,Dark,Nuzleaf
+Gen 3,Not Legendary,Grass,Dark,Shiftry
+Gen 3,Not Legendary,Normal,Flying,Taillow
+Gen 3,Not Legendary,Normal,Flying,Swellow
+Gen 3,Not Legendary,Water,Flying,Wingull
+Gen 3,Not Legendary,Water,Flying,Pelipper
+Gen 3,Not Legendary,Psychic,Fairy,Ralts
+Gen 3,Not Legendary,Psychic,Fairy,Kirlia
+Gen 3,Not Legendary,Psychic,Fairy,Gardevoir
+Gen 3,Not Legendary,Psychic,Fairy,GardevoirMega Gardevoir
+Gen 3,Not Legendary,Bug,Water,Surskit
+Gen 3,Not Legendary,Bug,Flying,Masquerain
+Gen 3,Not Legendary,Grass,None,Shroomish
+Gen 3,Not Legendary,Grass,Fighting,Breloom
+Gen 3,Not Legendary,Normal,None,Slakoth
+Gen 3,Not Legendary,Normal,None,Vigoroth
+Gen 3,Not Legendary,Normal,None,Slaking
+Gen 3,Not Legendary,Bug,Ground,Nincada
+Gen 3,Not Legendary,Bug,Flying,Ninjask
+Gen 3,Not Legendary,Bug,Ghost,Shedinja
+Gen 3,Not Legendary,Normal,None,Whismur
+Gen 3,Not Legendary,Normal,None,Loudred
+Gen 3,Not Legendary,Normal,None,Exploud
+Gen 3,Not Legendary,Fighting,None,Makuhita
+Gen 3,Not Legendary,Fighting,None,Hariyama
+Gen 3,Not Legendary,Normal,Fairy,Azurill
+Gen 3,Not Legendary,Rock,None,Nosepass
+Gen 3,Not Legendary,Normal,None,Skitty
+Gen 3,Not Legendary,Normal,None,Delcatty
+Gen 3,Not Legendary,Dark,Ghost,Sableye
+Gen 3,Not Legendary,Dark,Ghost,SableyeMega Sableye
+Gen 3,Not Legendary,Steel,Fairy,Mawile
+Gen 3,Not Legendary,Steel,Fairy,MawileMega Mawile
+Gen 3,Not Legendary,Steel,Rock,Aron
+Gen 3,Not Legendary,Steel,Rock,Lairon
+Gen 3,Not Legendary,Steel,Rock,Aggron
+Gen 3,Not Legendary,Steel,None,AggronMega Aggron
+Gen 3,Not Legendary,Fighting,Psychic,Meditite
+Gen 3,Not Legendary,Fighting,Psychic,Medicham
+Gen 3,Not Legendary,Fighting,Psychic,MedichamMega Medicham
+Gen 3,Not Legendary,Electric,None,Electrike
+Gen 3,Not Legendary,Electric,None,Manectric
+Gen 3,Not Legendary,Electric,None,ManectricMega Manectric
+Gen 3,Not Legendary,Electric,None,Plusle
+Gen 3,Not Legendary,Electric,None,Minun
+Gen 3,Not Legendary,Bug,None,Volbeat
+Gen 3,Not Legendary,Bug,None,Illumise
+Gen 3,Not Legendary,Grass,Poison,Roselia
+Gen 3,Not Legendary,Poison,None,Gulpin
+Gen 3,Not Legendary,Poison,None,Swalot
+Gen 3,Not Legendary,Water,Dark,Carvanha
+Gen 3,Not Legendary,Water,Dark,Sharpedo
+Gen 3,Not Legendary,Water,Dark,SharpedoMega Sharpedo
+Gen 3,Not Legendary,Water,None,Wailmer
+Gen 3,Not Legendary,Water,None,Wailord
+Gen 3,Not Legendary,Fire,Ground,Numel
+Gen 3,Not Legendary,Fire,Ground,Camerupt
+Gen 3,Not Legendary,Fire,Ground,CameruptMega Camerupt
+Gen 3,Not Legendary,Fire,None,Torkoal
+Gen 3,Not Legendary,Psychic,None,Spoink
+Gen 3,Not Legendary,Psychic,None,Grumpig
+Gen 3,Not Legendary,Normal,None,Spinda
+Gen 3,Not Legendary,Ground,None,Trapinch
+Gen 3,Not Legendary,Ground,Dragon,Vibrava
+Gen 3,Not Legendary,Ground,Dragon,Flygon
+Gen 3,Not Legendary,Grass,None,Cacnea
+Gen 3,Not Legendary,Grass,Dark,Cacturne
+Gen 3,Not Legendary,Normal,Flying,Swablu
+Gen 3,Not Legendary,Dragon,Flying,Altaria
+Gen 3,Not Legendary,Dragon,Fairy,AltariaMega Altaria
+Gen 3,Not Legendary,Normal,None,Zangoose
+Gen 3,Not Legendary,Poison,None,Seviper
+Gen 3,Not Legendary,Rock,Psychic,Lunatone
+Gen 3,Not Legendary,Rock,Psychic,Solrock
+Gen 3,Not Legendary,Water,Ground,Barboach
+Gen 3,Not Legendary,Water,Ground,Whiscash
+Gen 3,Not Legendary,Water,None,Corphish
+Gen 3,Not Legendary,Water,Dark,Crawdaunt
+Gen 3,Not Legendary,Ground,Psychic,Baltoy
+Gen 3,Not Legendary,Ground,Psychic,Claydol
+Gen 3,Not Legendary,Rock,Grass,Lileep
+Gen 3,Not Legendary,Rock,Grass,Cradily
+Gen 3,Not Legendary,Rock,Bug,Anorith
+Gen 3,Not Legendary,Rock,Bug,Armaldo
+Gen 3,Not Legendary,Water,None,Feebas
+Gen 3,Not Legendary,Water,None,Milotic
+Gen 3,Not Legendary,Normal,None,Castform
+Gen 3,Not Legendary,Normal,None,Kecleon
+Gen 3,Not Legendary,Ghost,None,Shuppet
+Gen 3,Not Legendary,Ghost,None,Banette
+Gen 3,Not Legendary,Ghost,None,BanetteMega Banette
+Gen 3,Not Legendary,Ghost,None,Duskull
+Gen 3,Not Legendary,Ghost,None,Dusclops
+Gen 3,Not Legendary,Grass,Flying,Tropius
+Gen 3,Not Legendary,Psychic,None,Chimecho
+Gen 3,Not Legendary,Dark,None,Absol
+Gen 3,Not Legendary,Dark,None,AbsolMega Absol
+Gen 3,Not Legendary,Psychic,None,Wynaut
+Gen 3,Not Legendary,Ice,None,Snorunt
+Gen 3,Not Legendary,Ice,None,Glalie
+Gen 3,Not Legendary,Ice,None,GlalieMega Glalie
+Gen 3,Not Legendary,Ice,Water,Spheal
+Gen 3,Not Legendary,Ice,Water,Sealeo
+Gen 3,Not Legendary,Ice,Water,Walrein
+Gen 3,Not Legendary,Water,None,Clamperl
+Gen 3,Not Legendary,Water,None,Huntail
+Gen 3,Not Legendary,Water,None,Gorebyss
+Gen 3,Not Legendary,Water,Rock,Relicanth
+Gen 3,Not Legendary,Water,None,Luvdisc
+Gen 3,Not Legendary,Dragon,None,Bagon
+Gen 3,Not Legendary,Dragon,None,Shelgon
+Gen 3,Not Legendary,Dragon,Flying,Salamence
+Gen 3,Not Legendary,Dragon,Flying,SalamenceMega Salamence
+Gen 3,Not Legendary,Steel,Psychic,Beldum
+Gen 3,Not Legendary,Steel,Psychic,Metang
+Gen 3,Not Legendary,Steel,Psychic,Metagross
+Gen 3,Not Legendary,Steel,Psychic,MetagrossMega Metagross
+Gen 3,Legendary,Rock,None,Regirock
+Gen 3,Legendary,Ice,None,Regice
+Gen 3,Legendary,Steel,None,Registeel
+Gen 3,Legendary,Dragon,Psychic,Latias
+Gen 3,Legendary,Dragon,Psychic,LatiasMega Latias
+Gen 3,Legendary,Dragon,Psychic,Latios
+Gen 3,Legendary,Dragon,Psychic,LatiosMega Latios
+Gen 3,Legendary,Water,None,Kyogre
+Gen 3,Legendary,Water,None,KyogrePrimal Kyogre
+Gen 3,Legendary,Ground,None,Groudon
+Gen 3,Legendary,Ground,Fire,GroudonPrimal Groudon
+Gen 3,Legendary,Dragon,Flying,Rayquaza
+Gen 3,Legendary,Dragon,Flying,RayquazaMega Rayquaza
+Gen 3,Legendary,Steel,Psychic,Jirachi
+Gen 3,Legendary,Psychic,None,DeoxysNormal Forme
+Gen 3,Legendary,Psychic,None,DeoxysAttack Forme
+Gen 3,Legendary,Psychic,None,DeoxysDefense Forme
+Gen 3,Legendary,Psychic,None,DeoxysSpeed Forme
+Gen 4,Not Legendary,Grass,None,Turtwig
+Gen 4,Not Legendary,Grass,None,Grotle
+Gen 4,Not Legendary,Grass,Ground,Torterra
+Gen 4,Not Legendary,Fire,None,Chimchar
+Gen 4,Not Legendary,Fire,Fighting,Monferno
+Gen 4,Not Legendary,Fire,Fighting,Infernape
+Gen 4,Not Legendary,Water,None,Piplup
+Gen 4,Not Legendary,Water,None,Prinplup
+Gen 4,Not Legendary,Water,Steel,Empoleon
+Gen 4,Not Legendary,Normal,Flying,Starly
+Gen 4,Not Legendary,Normal,Flying,Staravia
+Gen 4,Not Legendary,Normal,Flying,Staraptor
+Gen 4,Not Legendary,Normal,None,Bidoof
+Gen 4,Not Legendary,Normal,Water,Bibarel
+Gen 4,Not Legendary,Bug,None,Kricketot
+Gen 4,Not Legendary,Bug,None,Kricketune
+Gen 4,Not Legendary,Electric,None,Shinx
+Gen 4,Not Legendary,Electric,None,Luxio
+Gen 4,Not Legendary,Electric,None,Luxray
+Gen 4,Not Legendary,Grass,Poison,Budew
+Gen 4,Not Legendary,Grass,Poison,Roserade
+Gen 4,Not Legendary,Rock,None,Cranidos
+Gen 4,Not Legendary,Rock,None,Rampardos
+Gen 4,Not Legendary,Rock,Steel,Shieldon
+Gen 4,Not Legendary,Rock,Steel,Bastiodon
+Gen 4,Not Legendary,Bug,None,Burmy
+Gen 4,Not Legendary,Bug,Grass,WormadamPlant Cloak
+Gen 4,Not Legendary,Bug,Ground,WormadamSandy Cloak
+Gen 4,Not Legendary,Bug,Steel,WormadamTrash Cloak
+Gen 4,Not Legendary,Bug,Flying,Mothim
+Gen 4,Not Legendary,Bug,Flying,Combee
+Gen 4,Not Legendary,Bug,Flying,Vespiquen
+Gen 4,Not Legendary,Electric,None,Pachirisu
+Gen 4,Not Legendary,Water,None,Buizel
+Gen 4,Not Legendary,Water,None,Floatzel
+Gen 4,Not Legendary,Grass,None,Cherubi
+Gen 4,Not Legendary,Grass,None,Cherrim
+Gen 4,Not Legendary,Water,None,Shellos
+Gen 4,Not Legendary,Water,Ground,Gastrodon
+Gen 4,Not Legendary,Normal,None,Ambipom
+Gen 4,Not Legendary,Ghost,Flying,Drifloon
+Gen 4,Not Legendary,Ghost,Flying,Drifblim
+Gen 4,Not Legendary,Normal,None,Buneary
+Gen 4,Not Legendary,Normal,None,Lopunny
+Gen 4,Not Legendary,Normal,Fighting,LopunnyMega Lopunny
+Gen 4,Not Legendary,Ghost,None,Mismagius
+Gen 4,Not Legendary,Dark,Flying,Honchkrow
+Gen 4,Not Legendary,Normal,None,Glameow
+Gen 4,Not Legendary,Normal,None,Purugly
+Gen 4,Not Legendary,Psychic,None,Chingling
+Gen 4,Not Legendary,Poison,Dark,Stunky
+Gen 4,Not Legendary,Poison,Dark,Skuntank
+Gen 4,Not Legendary,Steel,Psychic,Bronzor
+Gen 4,Not Legendary,Steel,Psychic,Bronzong
+Gen 4,Not Legendary,Rock,None,Bonsly
+Gen 4,Not Legendary,Psychic,Fairy,Mime Jr.
+Gen 4,Not Legendary,Normal,None,Happiny
+Gen 4,Not Legendary,Normal,Flying,Chatot
+Gen 4,Not Legendary,Ghost,Dark,Spiritomb
+Gen 4,Not Legendary,Dragon,Ground,Gible
+Gen 4,Not Legendary,Dragon,Ground,Gabite
+Gen 4,Not Legendary,Dragon,Ground,Garchomp
+Gen 4,Not Legendary,Dragon,Ground,GarchompMega Garchomp
+Gen 4,Not Legendary,Normal,None,Munchlax
+Gen 4,Not Legendary,Fighting,None,Riolu
+Gen 4,Not Legendary,Fighting,Steel,Lucario
+Gen 4,Not Legendary,Fighting,Steel,LucarioMega Lucario
+Gen 4,Not Legendary,Ground,None,Hippopotas
+Gen 4,Not Legendary,Ground,None,Hippowdon
+Gen 4,Not Legendary,Poison,Bug,Skorupi
+Gen 4,Not Legendary,Poison,Dark,Drapion
+Gen 4,Not Legendary,Poison,Fighting,Croagunk
+Gen 4,Not Legendary,Poison,Fighting,Toxicroak
+Gen 4,Not Legendary,Grass,None,Carnivine
+Gen 4,Not Legendary,Water,None,Finneon
+Gen 4,Not Legendary,Water,None,Lumineon
+Gen 4,Not Legendary,Water,Flying,Mantyke
+Gen 4,Not Legendary,Grass,Ice,Snover
+Gen 4,Not Legendary,Grass,Ice,Abomasnow
+Gen 4,Not Legendary,Grass,Ice,AbomasnowMega Abomasnow
+Gen 4,Not Legendary,Dark,Ice,Weavile
+Gen 4,Not Legendary,Electric,Steel,Magnezone
+Gen 4,Not Legendary,Normal,None,Lickilicky
+Gen 4,Not Legendary,Ground,Rock,Rhyperior
+Gen 4,Not Legendary,Grass,None,Tangrowth
+Gen 4,Not Legendary,Electric,None,Electivire
+Gen 4,Not Legendary,Fire,None,Magmortar
+Gen 4,Not Legendary,Fairy,Flying,Togekiss
+Gen 4,Not Legendary,Bug,Flying,Yanmega
+Gen 4,Not Legendary,Grass,None,Leafeon
+Gen 4,Not Legendary,Ice,None,Glaceon
+Gen 4,Not Legendary,Ground,Flying,Gliscor
+Gen 4,Not Legendary,Ice,Ground,Mamoswine
+Gen 4,Not Legendary,Normal,None,Porygon-Z
+Gen 4,Not Legendary,Psychic,Fighting,Gallade
+Gen 4,Not Legendary,Psychic,Fighting,GalladeMega Gallade
+Gen 4,Not Legendary,Rock,Steel,Probopass
+Gen 4,Not Legendary,Ghost,None,Dusknoir
+Gen 4,Not Legendary,Ice,Ghost,Froslass
+Gen 4,Not Legendary,Electric,Ghost,Rotom
+Gen 4,Not Legendary,Electric,Fire,RotomHeat Rotom
+Gen 4,Not Legendary,Electric,Water,RotomWash Rotom
+Gen 4,Not Legendary,Electric,Ice,RotomFrost Rotom
+Gen 4,Not Legendary,Electric,Flying,RotomFan Rotom
+Gen 4,Not Legendary,Electric,Grass,RotomMow Rotom
+Gen 4,Legendary,Psychic,None,Uxie
+Gen 4,Legendary,Psychic,None,Mesprit
+Gen 4,Legendary,Psychic,None,Azelf
+Gen 4,Legendary,Steel,Dragon,Dialga
+Gen 4,Legendary,Water,Dragon,Palkia
+Gen 4,Legendary,Fire,Steel,Heatran
+Gen 4,Legendary,Normal,None,Regigigas
+Gen 4,Legendary,Ghost,Dragon,GiratinaAltered Forme
+Gen 4,Legendary,Ghost,Dragon,GiratinaOrigin Forme
+Gen 4,Not Legendary,Psychic,None,Cresselia
+Gen 4,Not Legendary,Water,None,Phione
+Gen 4,Not Legendary,Water,None,Manaphy
+Gen 4,Legendary,Dark,None,Darkrai
+Gen 4,Legendary,Grass,None,ShayminLand Forme
+Gen 4,Legendary,Grass,Flying,ShayminSky Forme
+Gen 4,Legendary,Normal,None,Arceus
+Gen 5,Legendary,Psychic,Fire,Victini
+Gen 5,Not Legendary,Grass,None,Snivy
+Gen 5,Not Legendary,Grass,None,Servine
+Gen 5,Not Legendary,Grass,None,Serperior
+Gen 5,Not Legendary,Fire,None,Tepig
+Gen 5,Not Legendary,Fire,Fighting,Pignite
+Gen 5,Not Legendary,Fire,Fighting,Emboar
+Gen 5,Not Legendary,Water,None,Oshawott
+Gen 5,Not Legendary,Water,None,Dewott
+Gen 5,Not Legendary,Water,None,Samurott
+Gen 5,Not Legendary,Normal,None,Patrat
+Gen 5,Not Legendary,Normal,None,Watchog
+Gen 5,Not Legendary,Normal,None,Lillipup
+Gen 5,Not Legendary,Normal,None,Herdier
+Gen 5,Not Legendary,Normal,None,Stoutland
+Gen 5,Not Legendary,Dark,None,Purrloin
+Gen 5,Not Legendary,Dark,None,Liepard
+Gen 5,Not Legendary,Grass,None,Pansage
+Gen 5,Not Legendary,Grass,None,Simisage
+Gen 5,Not Legendary,Fire,None,Pansear
+Gen 5,Not Legendary,Fire,None,Simisear
+Gen 5,Not Legendary,Water,None,Panpour
+Gen 5,Not Legendary,Water,None,Simipour
+Gen 5,Not Legendary,Psychic,None,Munna
+Gen 5,Not Legendary,Psychic,None,Musharna
+Gen 5,Not Legendary,Normal,Flying,Pidove
+Gen 5,Not Legendary,Normal,Flying,Tranquill
+Gen 5,Not Legendary,Normal,Flying,Unfezant
+Gen 5,Not Legendary,Electric,None,Blitzle
+Gen 5,Not Legendary,Electric,None,Zebstrika
+Gen 5,Not Legendary,Rock,None,Roggenrola
+Gen 5,Not Legendary,Rock,None,Boldore
+Gen 5,Not Legendary,Rock,None,Gigalith
+Gen 5,Not Legendary,Psychic,Flying,Woobat
+Gen 5,Not Legendary,Psychic,Flying,Swoobat
+Gen 5,Not Legendary,Ground,None,Drilbur
+Gen 5,Not Legendary,Ground,Steel,Excadrill
+Gen 5,Not Legendary,Normal,None,Audino
+Gen 5,Not Legendary,Normal,Fairy,AudinoMega Audino
+Gen 5,Not Legendary,Fighting,None,Timburr
+Gen 5,Not Legendary,Fighting,None,Gurdurr
+Gen 5,Not Legendary,Fighting,None,Conkeldurr
+Gen 5,Not Legendary,Water,None,Tympole
+Gen 5,Not Legendary,Water,Ground,Palpitoad
+Gen 5,Not Legendary,Water,Ground,Seismitoad
+Gen 5,Not Legendary,Fighting,None,Throh
+Gen 5,Not Legendary,Fighting,None,Sawk
+Gen 5,Not Legendary,Bug,Grass,Sewaddle
+Gen 5,Not Legendary,Bug,Grass,Swadloon
+Gen 5,Not Legendary,Bug,Grass,Leavanny
+Gen 5,Not Legendary,Bug,Poison,Venipede
+Gen 5,Not Legendary,Bug,Poison,Whirlipede
+Gen 5,Not Legendary,Bug,Poison,Scolipede
+Gen 5,Not Legendary,Grass,Fairy,Cottonee
+Gen 5,Not Legendary,Grass,Fairy,Whimsicott
+Gen 5,Not Legendary,Grass,None,Petilil
+Gen 5,Not Legendary,Grass,None,Lilligant
+Gen 5,Not Legendary,Water,None,Basculin
+Gen 5,Not Legendary,Ground,Dark,Sandile
+Gen 5,Not Legendary,Ground,Dark,Krokorok
+Gen 5,Not Legendary,Ground,Dark,Krookodile
+Gen 5,Not Legendary,Fire,None,Darumaka
+Gen 5,Not Legendary,Fire,None,DarmanitanStandard Mode
+Gen 5,Not Legendary,Fire,Psychic,DarmanitanZen Mode
+Gen 5,Not Legendary,Grass,None,Maractus
+Gen 5,Not Legendary,Bug,Rock,Dwebble
+Gen 5,Not Legendary,Bug,Rock,Crustle
+Gen 5,Not Legendary,Dark,Fighting,Scraggy
+Gen 5,Not Legendary,Dark,Fighting,Scrafty
+Gen 5,Not Legendary,Psychic,Flying,Sigilyph
+Gen 5,Not Legendary,Ghost,None,Yamask
+Gen 5,Not Legendary,Ghost,None,Cofagrigus
+Gen 5,Not Legendary,Water,Rock,Tirtouga
+Gen 5,Not Legendary,Water,Rock,Carracosta
+Gen 5,Not Legendary,Rock,Flying,Archen
+Gen 5,Not Legendary,Rock,Flying,Archeops
+Gen 5,Not Legendary,Poison,None,Trubbish
+Gen 5,Not Legendary,Poison,None,Garbodor
+Gen 5,Not Legendary,Dark,None,Zorua
+Gen 5,Not Legendary,Dark,None,Zoroark
+Gen 5,Not Legendary,Normal,None,Minccino
+Gen 5,Not Legendary,Normal,None,Cinccino
+Gen 5,Not Legendary,Psychic,None,Gothita
+Gen 5,Not Legendary,Psychic,None,Gothorita
+Gen 5,Not Legendary,Psychic,None,Gothitelle
+Gen 5,Not Legendary,Psychic,None,Solosis
+Gen 5,Not Legendary,Psychic,None,Duosion
+Gen 5,Not Legendary,Psychic,None,Reuniclus
+Gen 5,Not Legendary,Water,Flying,Ducklett
+Gen 5,Not Legendary,Water,Flying,Swanna
+Gen 5,Not Legendary,Ice,None,Vanillite
+Gen 5,Not Legendary,Ice,None,Vanillish
+Gen 5,Not Legendary,Ice,None,Vanilluxe
+Gen 5,Not Legendary,Normal,Grass,Deerling
+Gen 5,Not Legendary,Normal,Grass,Sawsbuck
+Gen 5,Not Legendary,Electric,Flying,Emolga
+Gen 5,Not Legendary,Bug,None,Karrablast
+Gen 5,Not Legendary,Bug,Steel,Escavalier
+Gen 5,Not Legendary,Grass,Poison,Foongus
+Gen 5,Not Legendary,Grass,Poison,Amoonguss
+Gen 5,Not Legendary,Water,Ghost,Frillish
+Gen 5,Not Legendary,Water,Ghost,Jellicent
+Gen 5,Not Legendary,Water,None,Alomomola
+Gen 5,Not Legendary,Bug,Electric,Joltik
+Gen 5,Not Legendary,Bug,Electric,Galvantula
+Gen 5,Not Legendary,Grass,Steel,Ferroseed
+Gen 5,Not Legendary,Grass,Steel,Ferrothorn
+Gen 5,Not Legendary,Steel,None,Klink
+Gen 5,Not Legendary,Steel,None,Klang
+Gen 5,Not Legendary,Steel,None,Klinklang
+Gen 5,Not Legendary,Electric,None,Tynamo
+Gen 5,Not Legendary,Electric,None,Eelektrik
+Gen 5,Not Legendary,Electric,None,Eelektross
+Gen 5,Not Legendary,Psychic,None,Elgyem
+Gen 5,Not Legendary,Psychic,None,Beheeyem
+Gen 5,Not Legendary,Ghost,Fire,Litwick
+Gen 5,Not Legendary,Ghost,Fire,Lampent
+Gen 5,Not Legendary,Ghost,Fire,Chandelure
+Gen 5,Not Legendary,Dragon,None,Axew
+Gen 5,Not Legendary,Dragon,None,Fraxure
+Gen 5,Not Legendary,Dragon,None,Haxorus
+Gen 5,Not Legendary,Ice,None,Cubchoo
+Gen 5,Not Legendary,Ice,None,Beartic
+Gen 5,Not Legendary,Ice,None,Cryogonal
+Gen 5,Not Legendary,Bug,None,Shelmet
+Gen 5,Not Legendary,Bug,None,Accelgor
+Gen 5,Not Legendary,Ground,Electric,Stunfisk
+Gen 5,Not Legendary,Fighting,None,Mienfoo
+Gen 5,Not Legendary,Fighting,None,Mienshao
+Gen 5,Not Legendary,Dragon,None,Druddigon
+Gen 5,Not Legendary,Ground,Ghost,Golett
+Gen 5,Not Legendary,Ground,Ghost,Golurk
+Gen 5,Not Legendary,Dark,Steel,Pawniard
+Gen 5,Not Legendary,Dark,Steel,Bisharp
+Gen 5,Not Legendary,Normal,None,Bouffalant
+Gen 5,Not Legendary,Normal,Flying,Rufflet
+Gen 5,Not Legendary,Normal,Flying,Braviary
+Gen 5,Not Legendary,Dark,Flying,Vullaby
+Gen 5,Not Legendary,Dark,Flying,Mandibuzz
+Gen 5,Not Legendary,Fire,None,Heatmor
+Gen 5,Not Legendary,Bug,Steel,Durant
+Gen 5,Not Legendary,Dark,Dragon,Deino
+Gen 5,Not Legendary,Dark,Dragon,Zweilous
+Gen 5,Not Legendary,Dark,Dragon,Hydreigon
+Gen 5,Not Legendary,Bug,Fire,Larvesta
+Gen 5,Not Legendary,Bug,Fire,Volcarona
+Gen 5,Legendary,Steel,Fighting,Cobalion
+Gen 5,Legendary,Rock,Fighting,Terrakion
+Gen 5,Legendary,Grass,Fighting,Virizion
+Gen 5,Legendary,Flying,None,TornadusIncarnate Forme
+Gen 5,Legendary,Flying,None,TornadusTherian Forme
+Gen 5,Legendary,Electric,Flying,ThundurusIncarnate Forme
+Gen 5,Legendary,Electric,Flying,ThundurusTherian Forme
+Gen 5,Legendary,Dragon,Fire,Reshiram
+Gen 5,Legendary,Dragon,Electric,Zekrom
+Gen 5,Legendary,Ground,Flying,LandorusIncarnate Forme
+Gen 5,Legendary,Ground,Flying,LandorusTherian Forme
+Gen 5,Legendary,Dragon,Ice,Kyurem
+Gen 5,Legendary,Dragon,Ice,KyuremBlack Kyurem
+Gen 5,Legendary,Dragon,Ice,KyuremWhite Kyurem
+Gen 5,Not Legendary,Water,Fighting,KeldeoOrdinary Forme
+Gen 5,Not Legendary,Water,Fighting,KeldeoResolute Forme
+Gen 5,Not Legendary,Normal,Psychic,MeloettaAria Forme
+Gen 5,Not Legendary,Normal,Fighting,MeloettaPirouette Forme
+Gen 5,Not Legendary,Bug,Steel,Genesect

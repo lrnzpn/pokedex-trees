@@ -1,0 +1,412 @@
+[
+	{
+		"name": "Gen 1",
+		"children": [
+			{
+				"name": "Not Legendary",
+				"children": [
+					{
+						"name": "Grass",
+						"children": [
+							{
+								"name": "Poison",
+								"children": [
+									{ "name": "Bulbasaur" },
+									{ "name": "Ivysaur" },
+									{ "name": "Venusaur" },
+									{ "name": "VenusaurMega Venusaur" },
+									{ "name": "Oddish" },
+									{ "name": "Gloom" },
+									{ "name": "Vileplume" },
+									{ "name": "Bellsprout" },
+									{ "name": "Weepinbell" },
+									{ "name": "Victreebel" }
+								]
+							},
+							{
+								"name": "Psychic",
+								"children": [{ "name": "Exeggcute" }, { "name": "Exeggutor" }]
+							},
+							{ "name": "None", "children": [{ "name": "Tangela" }] }
+						]
+					},
+					{
+						"name": "Fire",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Charmander" },
+									{ "name": "Charmeleon" },
+									{ "name": "Vulpix" },
+									{ "name": "Ninetales" },
+									{ "name": "Growlithe" },
+									{ "name": "Arcanine" },
+									{ "name": "Ponyta" },
+									{ "name": "Rapidash" },
+									{ "name": "Magmar" },
+									{ "name": "Flareon" }
+								]
+							},
+							{
+								"name": "Flying",
+								"children": [
+									{ "name": "Charizard" },
+									{ "name": "CharizardMega Charizard Y" }
+								]
+							},
+							{
+								"name": "Dragon",
+								"children": [{ "name": "CharizardMega Charizard X" }]
+							}
+						]
+					},
+					{
+						"name": "Water",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Squirtle" },
+									{ "name": "Wartortle" },
+									{ "name": "Blastoise" },
+									{ "name": "BlastoiseMega Blastoise" },
+									{ "name": "Psyduck" },
+									{ "name": "Golduck" },
+									{ "name": "Poliwag" },
+									{ "name": "Poliwhirl" },
+									{ "name": "Seel" },
+									{ "name": "Shellder" },
+									{ "name": "Krabby" },
+									{ "name": "Kingler" },
+									{ "name": "Horsea" },
+									{ "name": "Seadra" },
+									{ "name": "Goldeen" },
+									{ "name": "Seaking" },
+									{ "name": "Staryu" },
+									{ "name": "Magikarp" },
+									{ "name": "Vaporeon" }
+								]
+							},
+							{ "name": "Fighting", "children": [{ "name": "Poliwrath" }] },
+							{
+								"name": "Poison",
+								"children": [{ "name": "Tentacool" }, { "name": "Tentacruel" }]
+							},
+							{
+								"name": "Psychic",
+								"children": [
+									{ "name": "Slowpoke" },
+									{ "name": "Slowbro" },
+									{ "name": "SlowbroMega Slowbro" },
+									{ "name": "Starmie" }
+								]
+							},
+							{
+								"name": "Ice",
+								"children": [
+									{ "name": "Dewgong" },
+									{ "name": "Cloyster" },
+									{ "name": "Lapras" }
+								]
+							},
+							{ "name": "Flying", "children": [{ "name": "Gyarados" }] },
+							{
+								"name": "Dark",
+								"children": [{ "name": "GyaradosMega Gyarados" }]
+							}
+						]
+					},
+					{
+						"name": "Bug",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Caterpie" },
+									{ "name": "Metapod" },
+									{ "name": "Pinsir" }
+								]
+							},
+							{
+								"name": "Flying",
+								"children": [
+									{ "name": "Butterfree" },
+									{ "name": "Scyther" },
+									{ "name": "PinsirMega Pinsir" }
+								]
+							},
+							{
+								"name": "Poison",
+								"children": [
+									{ "name": "Weedle" },
+									{ "name": "Kakuna" },
+									{ "name": "Beedrill" },
+									{ "name": "BeedrillMega Beedrill" },
+									{ "name": "Venonat" },
+									{ "name": "Venomoth" }
+								]
+							},
+							{
+								"name": "Grass",
+								"children": [{ "name": "Paras" }, { "name": "Parasect" }]
+							}
+						]
+					},
+					{
+						"name": "Normal",
+						"children": [
+							{
+								"name": "Flying",
+								"children": [
+									{ "name": "Pidgey" },
+									{ "name": "Pidgeotto" },
+									{ "name": "Pidgeot" },
+									{ "name": "PidgeotMega Pidgeot" },
+									{ "name": "Spearow" },
+									{ "name": "Fearow" },
+									{ "name": "Farfetch'd" },
+									{ "name": "Doduo" },
+									{ "name": "Dodrio" }
+								]
+							},
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Rattata" },
+									{ "name": "Raticate" },
+									{ "name": "Meowth" },
+									{ "name": "Persian" },
+									{ "name": "Lickitung" },
+									{ "name": "Chansey" },
+									{ "name": "Kangaskhan" },
+									{ "name": "KangaskhanMega Kangaskhan" },
+									{ "name": "Tauros" },
+									{ "name": "Ditto" },
+									{ "name": "Eevee" },
+									{ "name": "Porygon" },
+									{ "name": "Snorlax" }
+								]
+							},
+							{
+								"name": "Fairy",
+								"children": [{ "name": "Jigglypuff" }, { "name": "Wigglytuff" }]
+							}
+						]
+					},
+					{
+						"name": "Poison",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Ekans" },
+									{ "name": "Arbok" },
+									{ "name": "Nidoran\u2640" },
+									{ "name": "Nidorina" },
+									{ "name": "Nidoran\u2642" },
+									{ "name": "Nidorino" },
+									{ "name": "Grimer" },
+									{ "name": "Muk" },
+									{ "name": "Koffing" },
+									{ "name": "Weezing" }
+								]
+							},
+							{
+								"name": "Ground",
+								"children": [{ "name": "Nidoqueen" }, { "name": "Nidoking" }]
+							},
+							{
+								"name": "Flying",
+								"children": [{ "name": "Zubat" }, { "name": "Golbat" }]
+							}
+						]
+					},
+					{
+						"name": "Electric",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Pikachu" },
+									{ "name": "Raichu" },
+									{ "name": "Voltorb" },
+									{ "name": "Electrode" },
+									{ "name": "Electabuzz" },
+									{ "name": "Jolteon" }
+								]
+							},
+							{
+								"name": "Steel",
+								"children": [{ "name": "Magnemite" }, { "name": "Magneton" }]
+							}
+						]
+					},
+					{
+						"name": "Ground",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Sandshrew" },
+									{ "name": "Sandslash" },
+									{ "name": "Diglett" },
+									{ "name": "Dugtrio" },
+									{ "name": "Cubone" },
+									{ "name": "Marowak" }
+								]
+							},
+							{
+								"name": "Rock",
+								"children": [{ "name": "Rhyhorn" }, { "name": "Rhydon" }]
+							}
+						]
+					},
+					{
+						"name": "Fairy",
+						"children": [
+							{
+								"name": "None",
+								"children": [{ "name": "Clefairy" }, { "name": "Clefable" }]
+							}
+						]
+					},
+					{
+						"name": "Fighting",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Mankey" },
+									{ "name": "Primeape" },
+									{ "name": "Machop" },
+									{ "name": "Machoke" },
+									{ "name": "Machamp" },
+									{ "name": "Hitmonlee" },
+									{ "name": "Hitmonchan" }
+								]
+							}
+						]
+					},
+					{
+						"name": "Psychic",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Abra" },
+									{ "name": "Kadabra" },
+									{ "name": "Alakazam" },
+									{ "name": "AlakazamMega Alakazam" },
+									{ "name": "Drowzee" },
+									{ "name": "Hypno" },
+									{ "name": "Mew" }
+								]
+							},
+							{ "name": "Fairy", "children": [{ "name": "Mr. Mime" }] }
+						]
+					},
+					{
+						"name": "Rock",
+						"children": [
+							{
+								"name": "Ground",
+								"children": [
+									{ "name": "Geodude" },
+									{ "name": "Graveler" },
+									{ "name": "Golem" },
+									{ "name": "Onix" }
+								]
+							},
+							{
+								"name": "Water",
+								"children": [
+									{ "name": "Omanyte" },
+									{ "name": "Omastar" },
+									{ "name": "Kabuto" },
+									{ "name": "Kabutops" }
+								]
+							},
+							{
+								"name": "Flying",
+								"children": [
+									{ "name": "Aerodactyl" },
+									{ "name": "AerodactylMega Aerodactyl" }
+								]
+							}
+						]
+					},
+					{
+						"name": "Ghost",
+						"children": [
+							{
+								"name": "Poison",
+								"children": [
+									{ "name": "Gastly" },
+									{ "name": "Haunter" },
+									{ "name": "Gengar" },
+									{ "name": "GengarMega Gengar" }
+								]
+							}
+						]
+					},
+					{
+						"name": "Ice",
+						"children": [
+							{ "name": "Psychic", "children": [{ "name": "Jynx" }] }
+						]
+					},
+					{
+						"name": "Dragon",
+						"children": [
+							{
+								"name": "None",
+								"children": [{ "name": "Dratini" }, { "name": "Dragonair" }]
+							},
+							{ "name": "Flying", "children": [{ "name": "Dragonite" }] }
+						]
+					}
+				]
+			},
+			{
+				"name": "Legendary",
+				"children": [
+					{
+						"name": "Ice",
+						"children": [
+							{ "name": "Flying", "children": [{ "name": "Articuno" }] }
+						]
+					},
+					{
+						"name": "Electric",
+						"children": [
+							{ "name": "Flying", "children": [{ "name": "Zapdos" }] }
+						]
+					},
+					{
+						"name": "Fire",
+						"children": [
+							{ "name": "Flying", "children": [{ "name": "Moltres" }] }
+						]
+					},
+					{
+						"name": "Psychic",
+						"children": [
+							{
+								"name": "None",
+								"children": [
+									{ "name": "Mewtwo" },
+									{ "name": "MewtwoMega Mewtwo Y" }
+								]
+							},
+							{
+								"name": "Fighting",
+								"children": [{ "name": "MewtwoMega Mewtwo X" }]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
