@@ -8,7 +8,19 @@ class Tree extends Component {
 	}
 
 	render() {
-		return <div className='tree' />;
+		return (
+			<div className='tree'>
+				{/* <button id='dft' onClick={this.dft}>
+					Depth First
+				</button>
+				<button id='bft' onClick={this.bft}>
+					Breadth First
+				</button>
+				<button id='reset' onClick={this.resetTraversal}>
+					Reset
+				</button> */}
+			</div>
+		);
 	}
 
 	draw = props => {
@@ -42,7 +54,7 @@ class Tree extends Component {
 			var root = tree(d3.hierarchy(data));
 
 			// var fringe = [root.data];
-			console.log(root.descendants().length);
+			// console.log(root.descendants().length);
 
 			// bfs
 			var i = 0;
@@ -84,10 +96,10 @@ class Tree extends Component {
 					.append("text")
 					.attr("dy", ".31em")
 					.attr("x", function(d) {
-						return d.x < 180 === !d.children ? 6 : -6;
+						return (d.x < 180) === !d.children ? 6 : -6;
 					})
 					.style("text-anchor", function(d) {
-						return d.x < 180 === !d.children ? "start" : "end";
+						return (d.x < 180) === !d.children ? "start" : "end";
 					})
 					.attr("transform", function(d) {
 						return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")";
@@ -163,16 +175,17 @@ class Tree extends Component {
 						return "translate(" + project(d.x, d.y) + ")";
 					});
 
-				node.append("circle").attr("r", 2.5);
+				node.append("circle").attr("r", 5);
+				node.select("circle").style("fill","red")
 
 				node
 					.append("text")
 					.attr("dy", ".31em")
 					.attr("x", function(d) {
-						return d.x < 180 === !d.children ? 6 : -6;
+						return (d.x < 180) === !d.children ? 6 : -6;
 					})
 					.style("text-anchor", function(d) {
-						return d.x < 180 === !d.children ? "start" : "end";
+						return (d.x < 180) === !d.children ? "start" : "end";
 					})
 					.attr("transform", function(d) {
 						return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")";
@@ -180,6 +193,8 @@ class Tree extends Component {
 					.text(function(d) {
 						return d.data.name;
 					});
+
+				
 				j++;
 				console.log(j);
 			};
@@ -193,7 +208,7 @@ class Tree extends Component {
 
 			// DEPTH FIRST
 			var timer = d3.interval(function(duration) {
-				var d_root = get_deep(root)
+				var d_root = get_deep(root);
 				dfs_loop(d_root);
 				if (j === d_root.length + 1) {
 					timer.stop();
@@ -205,6 +220,60 @@ class Tree extends Component {
 					radius = y;
 				return [radius * Math.cos(angle), radius * Math.sin(angle)];
 			}
+
+			// https://gist.github.com/mph006/7e7d7f629de75ada9af5
+			/*
+			var visitElement = function(element, animX) {
+				// d3.select("#node-"+element.id).classed("visited",true);
+				d3.select(
+					"node" + (element.children ? " node--internal" : " node--leaf")
+				)
+					.transition()
+					.duration(500)
+					.delay(500 * animX)
+					.style("fill", "red")
+					.style("stroke", "red");
+			};
+
+			var dft = () => {
+				var stack = [];
+				var animX = 0;
+				stack.push(root);
+				while (stack.length !== 0) {
+					var element = stack.pop();
+					visitElement(element, animX);
+					animX = animX + 1;
+					if (element.children !== undefined) {
+						for (var i = 0; i < element.children.length; i++) {
+							stack.push(element.children[element.children.length - i - 1]);
+						}
+					}
+				}
+			};
+
+			var bft = () => {
+				var queue = [];
+				var animX = 0;
+				queue.push(root);
+				while (queue.length !== 0) {
+					var element = queue.shift();
+					visitElement(element, animX);
+					animX = animX + 1;
+					if (element.children !== undefined) {
+						for (var i = 0; i < element.children.length; i++) {
+							queue.push(element.children[i]);
+						}
+					}
+				}
+			};
+			var resetTraversal = (root) => {
+				//d3.selectAll(".node").classed("visited",false);
+				d3.selectAll(".node")
+					.transition()
+					.duration(500)
+					.style("fill", "#fff")
+					.style("stroke", "steelblue");
+			} */
 		});
 	};
 }
