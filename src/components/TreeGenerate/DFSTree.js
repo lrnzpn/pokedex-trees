@@ -28,34 +28,33 @@ class Tree extends Component {
 					.append("svg")
 					.attr("width", width + margin.left + margin.right)
 					.attr("height", height + margin.top + margin.bottom),
+					// eslint-disable-next-line
 				g = svg
 					.append("g")
 					.attr(
 						"transform",
 						"translate(" + margin.left + "," + margin.top + ")"
 					);
+			var rootNode = nodes.data
 
-			var queue = []
-			// DFS
-			
-			for(var i = 0; i < nodes.data.children.length;i++) {
-				// console.log(nodes.data.children[i]);
-				// queue.push(nodes.data.children[i]);
-				for(var j = 0; j < nodes.data.children[i].children.length;j++) {
-					// console.log(nodes.data.children[i].children[j]);
-					// queue.push(nodes.data.children[i].children[j]);
-					for(var k=0;k<nodes.data.children[i].children[j].children.length;k++) {
-						// console.log(nodes.data.children[i].children[j].children[k]);
-						// queue.push(nodes.data.children[i].children[j].children[k]);
-						for(var l=0;l<nodes.data.children[i].children[j].children[k].children.length;l++) {
-							// console.log(nodes.data.children[i].children[j].children[k].children[l]);
-							// queue.push(nodes.data.children[i].children[j].children[k].children[l]);
-						}
+			// console.log(rootNode) 
+			// console.log(rootNode.children) // what you search
+			// console.log(rootNode.children[0].children[0]) // what will be added to queue
+
+			var breadthFirst = function(node) {
+				
+				var q = [rootNode]
+
+				for(let i = 0; i < node.children.length;i++){
+					q = [...q, node.children[i]]
+					for(let j = 0; j < node.children[i].children.length;j++){
+						q = [...q, node.children[i].children[j]]
+						console.log(q)
+
 					}
 				}
 			}
-			console.log(queue);
-			
+			breadthFirst(rootNode)
 		});
 	};
 }

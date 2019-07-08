@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-// import RadialTree from './RadialTree';
+import RadialTree from './RadialTree';
 // import Tree from './Tree';
-import DFSTree from './TreeGenerate/DFSTree';
+// import DFSTree from './TreeGenerate/DFSTree';
+// import ForceLayout from './ForceLayout';
 
 class Controller extends Component {
 
@@ -18,9 +19,10 @@ class Controller extends Component {
                     <button className="dfs" >DFS Tree</button>
                     <button className="reset" >Reset</button>
                 </form>
-                {/* <RadialTree /> */}
+                <RadialTree />
                 {/* <Tree /> */}
-                <DFSTree />
+                {/* <DFSTree /> */}
+                {/* <ForceLayout /> */}
             </div>
         );
     }
