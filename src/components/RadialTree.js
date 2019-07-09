@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import * as d3 from "d3";
 import "../css/RadialTree.css";
 
-class Tree extends Component {
+class RadialTree extends Component {
 	componentDidMount() {
 		this.draw(this.props);
 	}
@@ -175,8 +175,8 @@ class Tree extends Component {
 						return "translate(" + project(d.x, d.y) + ")";
 					});
 
-				node.append("circle").attr("r", 5);
-				node.select("circle").style("fill","red")
+				node.append("circle").attr("r", 2.5);
+				// node.select("circle").style("fill","red")
 
 				node
 					.append("text")
@@ -277,4 +277,4 @@ class Tree extends Component {
 		});
 	};
 }
-export default Tree;
+export default RadialTree;
