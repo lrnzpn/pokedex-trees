@@ -145,7 +145,7 @@ class TreeTraversal extends Component {
 				}
             };
 
-            // dft(root)
+            dft(root)
             console.log(typeof root.data.children[0].name)
 
 			function project(x, y) {
