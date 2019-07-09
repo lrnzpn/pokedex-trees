@@ -168,8 +168,8 @@ class TreeTraversal extends Component {
 	render() {
 		return (
 			<div>
-				<button className='bfs'>bfs</button>
-				<button className='dfs'>dfs</button>
+				<button className='bfs' onClick={this.props.onClickBFS}>bfs</button>
+				<button className='dfs' onClick={this.props.onClickDFS}>dfs</button>
 				<button className='reset'>reset</button>
 			</div>
 		);

@@ -1,0 +1,33 @@
+%flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+#main-container{
+    width: 1250px;
+height: 179px;
+border: solid #D7D7D7;
+border-width: 15px;
+// border-color: #D7D7D7;
+margin-left: 52px;
+margin-top: 40px;
+background-color: #6FA9D1;
+border-radius: 15px;
+color: black;
+}
+
+#main-flexbox{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 80px;
+}
+
+#visited-search{
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+}

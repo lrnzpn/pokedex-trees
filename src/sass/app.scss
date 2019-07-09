@@ -1,0 +1,44 @@
+%flexbox {
+  display: flex;
+  justify-content: space-between;
+}
+
+div {
+  font-family: "Pokemon GB";
+}
+
+input{
+    background: transparent;
+    border: solid 2px black;
+    height: 25px;
+    width: 140px;
+    font-family: "Pokemon GB";
+    font-size: 90%;
+}
+
+#button-flexbox {
+  @extend %flexbox;
+  margin-top: 34px;
+  margin-left: 312px;
+  width: 800px;
+}
+
+#search-flexbox {
+  @extend %flexbox;
+  width: 500px;
+  margin-left: 20px;
+}
+
+
+.text-button{
+    @extend %flexbox;
+    align-items: center;
+    justify-content: center;
+    width: 150%;
+    height: 120%;
+}
+.text-button:hover{
+    cursor: pointer;
+    border: 3px solid #000000;
+  box-sizing: border-box;
+  }

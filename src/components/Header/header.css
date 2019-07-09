@@ -1,0 +1,19 @@
+#main{
+    height: 124px;
+    background-color: #FF0000;
+    width: 100%;
+}
+    
+#flex-container-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+#tree-item-flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 600px;
+}
