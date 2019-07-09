@@ -276,8 +276,8 @@ class App extends React.Component {
                                         } */
     });
   };
-
-  drawTraversal = () => {
+  // genType: bfs/dfs
+  drawTraversal = genType => {
     d3.json("gen1_tree.json").then(treeData => {
       var data = treeData[0];
       var i = 0;
@@ -428,12 +428,13 @@ class App extends React.Component {
         }
       };
 
-      var bft = function(root, goal) {
+      var bft = (root, goal) => {
         var queue = [];
         var animate = 0;
         queue.push(root);
         while (queue.length !== 0) {
           var element = queue.shift();
+          this.setState({traversalPath: [...this.state.traversalPath, element.data.name]})
           if(goal.toLowerCase() === element.data.name.toLowerCase()) {
             visitGoal(element, animate);
             break;
@@ -449,7 +450,8 @@ class App extends React.Component {
         }
       };
 
-      dft(root, goal);
+      
+      genType === 'bfs' ? bft(root,goal): dft(root, goal);
 
       function project(x, y) {
         var angle = ((x - 90) / 180) * Math.PI,
