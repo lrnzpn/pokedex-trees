@@ -113,7 +113,7 @@ class TreeTraversal extends Component {
 			};
 			update(root);
 
-			var dft = function() {
+			var dft = function(root) {
 				var stack = [];
 				var animate = 0;
 				stack.push(root);
@@ -145,12 +145,15 @@ class TreeTraversal extends Component {
 				}
             };
 
+            // dft(root)
+            console.log(typeof root.data.children[0].name)
+
 			function project(x, y) {
 				var angle = ((x - 90) / 180) * Math.PI,
 					radius = y;
 				return [radius * Math.cos(angle), radius * Math.sin(angle)];
 			}
-		});
+        });
 
 		// function resetTraversal(root){
 		//     //d3.selectAll(".node").classed("visited",false);
@@ -159,7 +162,7 @@ class TreeTraversal extends Component {
 		//         .style("fill","#fff")
 		//         .style("stroke","steelblue");
 
-		// }
+        // }
 	};
 
 	render() {
