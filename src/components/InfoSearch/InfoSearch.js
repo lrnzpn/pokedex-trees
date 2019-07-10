@@ -22,12 +22,12 @@ const InfoSearch = props => {
                     <Button 
                         chooseGen={true}
                         gen={"1"}
-                        onClick={props.onClick}
+                        onClick={props.onClick1}
                     />
                     <Button 
                         chooseGen={true}
                         gen={"1,2,3"}
-                        onClick={props.onClick}
+                        onClick={props.onClick123}
                     />
                 </div>
                 </div>

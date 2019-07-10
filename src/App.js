@@ -15,7 +15,8 @@ class App extends React.Component {
       treeOperation: true,
       searchInput: '',
       traversalPath: [],
-      isTree: false
+      isTree: false,
+      gen: '1'
      }
      this.gen1 = "./gen1_tree.json";
      this.gen123 = "./gen123.json";
@@ -23,7 +24,8 @@ class App extends React.Component {
 
   drawGenerate = genType => {
     d3.select("svg").remove();
-    d3.json(this.gen1).then(function(treeData) {
+    const gen = this.state.gen === '1' ? this.gen1 : this.gen123;
+    d3.json(gen).then(function(treeData) {
       var data = treeData[0];
 
       // TREE DIAGRAM
@@ -279,7 +281,8 @@ class App extends React.Component {
   // genType: bfs/dfs
   drawTraversal = genType => {
     d3.select("svg").remove();
-    d3.json(this.gen1).then(treeData => {
+    const gen = this.state.gen === '1' ? this.gen1 : this.gen123;
+    d3.json(gen).then(treeData => {
       var data = treeData[0];
       var i = 0;
       var goal = this.state.searchInput;
@@ -485,6 +488,8 @@ class App extends React.Component {
         array = {JSON.stringify(tempArr1)}
         resultsType = "Visited"
         results={`${JSON.stringify(["Gen 1", "Legendary"])}`}
+        onClick1={() => this.setState({gen: '1'})}
+        onClick123={() => this.setState({gen: '123'})}
         />
         )
       case(false):
