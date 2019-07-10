@@ -6,7 +6,8 @@ div{
   display: flex;
   justify-content: space-between;
   margin-top: 34px;
-  margin-left: 312px;
+  margin-left: -40px;
+  /* margin-left: 312px; */
   width: 800px;
 }
 

@@ -7,6 +7,12 @@
     border-radius: 30px;
 }
 
+%hover{
+    box-sizing: border-box;
+    cursor: pointer;
+    border: 10px solid;
+}
+
 #main-button{
     @extend %button;
     background-color: #92E16C;
@@ -20,8 +26,12 @@
     width: 350px;
 }
 
+#main-button-gen:hover{
+    @extend %hover;
+    border-color: #c57a47;
+}
+
 #main-button:hover {
-    border: 10px solid #219653;
-    box-sizing: border-box;
-    cursor: pointer;
+    @extend %hover;
+    border-color: #219653
 }
