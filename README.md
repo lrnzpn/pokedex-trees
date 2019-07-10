@@ -36,3 +36,5 @@ This project is currently deployed online using Netlify.
 # Credit
 
 The D3 code used to create the radial tree was written by **Herman Sontrop**. The source code for this could be found [here](https://bl.ocks.org/FrissAnalytics/ffbd3cb71848616957cd4c0f41738aec?fbclid=IwAR2D-Wbmua4TPwmDAtspmYW1z5z5j81tDJBJOPThczmbqJnouLWUjmmfVg8).
+
+We also built upon **Herman Sontrop**'s [idea](https://bl.ocks.org/mph006/7e7d7f629de75ada9af5?fbclid=IwAR1H87O5JykosRT_a3EyajJc41g2kKoVqZgkeJ6Z4wEi62sGiqMt2APNnBM) for using buttons to display the traversals.
