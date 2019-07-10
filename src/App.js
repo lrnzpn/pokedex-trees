@@ -14,14 +14,15 @@ class App extends React.Component {
     this.state = { 
       treeOperation: true,
       searchInput: '',
-      traversalPath: []
+      traversalPath: [],
+      isTree: false
      }
   }
 
   drawGenerate = genType => {
+    d3.select("svg").remove();
     d3.json("./gen1_tree.json").then(function(treeData) {
       var data = treeData[0];
-      // console.log(Object.values(data))
 
       // TREE DIAGRAM
       var svg = d3.select("body").append("svg"),
@@ -47,7 +48,7 @@ class App extends React.Component {
 
       // build with json file
       var root = tree(d3.hierarchy(data));
-
+      console.log(root);
       // var fringe = [root.data];
       // console.log(root.descendants().length);
 
@@ -132,7 +133,7 @@ class App extends React.Component {
             }
           }
         }
-        // console.log(fringe)
+        console.log("fringe", fringe);
         return fringe;
       };
       // var d = get_deep(root)
@@ -206,6 +207,7 @@ class App extends React.Component {
 
       // DEPTH FIRST
       else if (genType === "dfs") {
+
         timer = d3.interval(function(duration) {
           var d_root = get_deep(root);
           dfs_loop(d_root);
@@ -278,6 +280,7 @@ class App extends React.Component {
   };
   // genType: bfs/dfs
   drawTraversal = genType => {
+    d3.select("svg").remove();
     d3.json("gen1_tree.json").then(treeData => {
       var data = treeData[0];
       var i = 0;
@@ -412,7 +415,7 @@ class App extends React.Component {
                     if(goal.toLowerCase() === element.data.name.toLowerCase()) {
                         visitGoal(element, animate);
                         break;
-                    }
+                    } 
 
           visitElement(element, animate);
           animate = animate + 1;
@@ -449,7 +452,7 @@ class App extends React.Component {
           }
         }
       };
-
+        
       
       genType === 'bfs' ? bft(root,goal): dft(root, goal);
 
@@ -508,7 +511,11 @@ class App extends React.Component {
                   </div>
                   <div className="text-button">OK</div>
                   <div className="text-button" 
-                       onClick={() => this.setState({searchInput: '', traversalPath: []})}>CLEAR</div>
+                       onClick={() => {
+                       this.setState({searchInput: '', traversalPath: []});
+                       d3.select('svg').remove();
+                       }}>CLEAR
+                  </div>
                 </div>
             }
             />
@@ -532,12 +539,14 @@ class App extends React.Component {
   };
 
   drawTree = (genType) => {
-    switch(this.state.treeOperation){
-      case(true):
-        return this.drawGenerate(genType);
-      case(false):
-        return this.drawTraversal(genType);
-    }
+
+          switch(this.state.treeOperation){
+            case(true):
+              return this.drawGenerate(genType);
+            case(false):
+              return this.drawTraversal(genType);
+          }
+    
   }
 
   render = () => { 
