@@ -484,6 +484,7 @@ class App extends React.Component {
         return(
         <InfoSearch
         treeOp="generation"
+        gen={this.state.gen}
         arrayType = "Queue"
         array = {JSON.stringify(tempArr1)}
         resultsType = "Visited"
@@ -562,9 +563,11 @@ class App extends React.Component {
           onClick2={() => this.treeClick(false)}
         />
         {this.renderInfoSearch()}
-        <div id="button-flexbox">
-        <Button treeType="BFS" onClick={() => this.drawTree('bfs')}/>
-        <Button treeType="DFS" onClick={() => this.drawTree('dfs')}/>
+        <div id="below-info-box">
+          <div id="button-flexbox">
+            <Button treeType="BFS" onClick={() => this.drawTree('bfs')}/>
+            <Button treeType="DFS" onClick={() => this.drawTree('dfs')}/>
+        </div>
         </div>
         </div>
 

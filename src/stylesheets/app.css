@@ -1,4 +1,4 @@
-#button-flexbox, #search-flexbox, .text-button {
+#button-flexbox, #search-flexbox, .text-button, #below-info-box {
   display: flex;
   justify-content: space-between; }
 
@@ -15,7 +15,6 @@ input {
 
 #button-flexbox {
   margin-top: 34px;
-  margin-left: 295px;
   width: 805px; }
 
 #search-flexbox {
@@ -32,5 +31,12 @@ input {
   cursor: pointer;
   border: 3px solid #000000;
   box-sizing: border-box; }
+
+#below-info-box {
+  margin-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 150px; }
 
 /*# sourceMappingURL=app.css.map */

@@ -5,7 +5,7 @@
 
 #main-container, #main-container-genButtons {
   width: 1250px;
-  height: 179px;
+  height: 219px;
   border: solid #D7D7D7;
   border-width: 15px;
   margin-left: 52px;
@@ -19,7 +19,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 80px; }
+  height: 100px; }
 
 #visited-search {
   display: flex;
@@ -36,6 +36,6 @@
 
 #column-container {
   align-items: center;
-  height: 130px; }
+  height: 170px; }
 
 /*# sourceMappingURL=infosearch.css.map */

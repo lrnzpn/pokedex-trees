@@ -18,6 +18,7 @@ const InfoSearch = props => {
             <div id="main-container-genButtons">
                 <div id="column-container">
                 <div id="choose-gen">CHOOSE POKEMON GENERATION</div>
+                <div id="">GENERATION: {props.gen}</div>
                 <div id="main-flexbox-genButtons">
                     <Button 
                         chooseGen={true}
