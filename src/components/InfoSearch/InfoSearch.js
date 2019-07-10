@@ -1,6 +1,10 @@
 import React from 'react';
 import '../../stylesheets/infosearch.css'
+import Button from '../Button/Button';
+
 const InfoSearch = props => {
+
+    if(props.treeOp==="traversal")
     return(
         <div id='main-container'>
             <div id='main-flexbox'>
@@ -9,6 +13,27 @@ const InfoSearch = props => {
             </div>
         </div>
     )
+    else if(props.treeOp==="generation"){
+        return(
+            <div id="main-container-genButtons">
+                <div id="column-container">
+                <div id="choose-gen">CHOOSE POKEMON GENERATION</div>
+                <div id="main-flexbox-genButtons">
+                    <Button 
+                        chooseGen={true}
+                        gen={"1"}
+                        onClick={props.onClick}
+                    />
+                    <Button 
+                        chooseGen={true}
+                        gen={"1,2,3"}
+                        onClick={props.onClick}
+                    />
+                </div>
+                </div>
+            </div>
+        )
+    }
 }
 
 export default InfoSearch;

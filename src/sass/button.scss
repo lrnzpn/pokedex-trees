@@ -1,11 +1,23 @@
-#main-button{
+%button{
     width: 302px;
     height: 86px;
-    background-color: #92E16C;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 30px;
+}
+
+#main-button{
+    @extend %button;
+    background-color: #92E16C;
+}
+
+
+#main-button-gen{
+    @extend %button;
+    background-color: #D1966E;
+    border-radius: 10px;
+    width: 350px;
 }
 
 #main-button:hover {

@@ -1,0 +1,2428 @@
+[
+{
+    "name": "Pokedex",
+    "children": [
+    {
+        "name": "Gen 1",
+        "children": [
+            {
+                "name": "Not Legendary",
+                "children": [
+                    {
+                        "name": "Grass",
+                        "children": [
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Bulbasaur"
+                                    },
+                                    {
+                                        "name": "Ivysaur"
+                                    },
+                                    {
+                                        "name": "Venusaur"
+                                    },
+                                    {
+                                        "name": "VenusaurMega Venusaur"
+                                    },
+                                    {
+                                        "name": "Oddish"
+                                    },
+                                    {
+                                        "name": "Gloom"
+                                    },
+                                    {
+                                        "name": "Vileplume"
+                                    },
+                                    {
+                                        "name": "Bellsprout"
+                                    },
+                                    {
+                                        "name": "Weepinbell"
+                                    },
+                                    {
+                                        "name": "Victreebel"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Exeggcute"
+                                    },
+                                    {
+                                        "name": "Exeggutor"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Tangela"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fire",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Charmander"
+                                    },
+                                    {
+                                        "name": "Charmeleon"
+                                    },
+                                    {
+                                        "name": "Vulpix"
+                                    },
+                                    {
+                                        "name": "Ninetales"
+                                    },
+                                    {
+                                        "name": "Growlithe"
+                                    },
+                                    {
+                                        "name": "Arcanine"
+                                    },
+                                    {
+                                        "name": "Ponyta"
+                                    },
+                                    {
+                                        "name": "Rapidash"
+                                    },
+                                    {
+                                        "name": "Magmar"
+                                    },
+                                    {
+                                        "name": "Flareon"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Charizard"
+                                    },
+                                    {
+                                        "name": "CharizardMega Charizard Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dragon",
+                                "children": [
+                                    {
+                                        "name": "CharizardMega Charizard X"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Water",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Squirtle"
+                                    },
+                                    {
+                                        "name": "Wartortle"
+                                    },
+                                    {
+                                        "name": "Blastoise"
+                                    },
+                                    {
+                                        "name": "BlastoiseMega Blastoise"
+                                    },
+                                    {
+                                        "name": "Psyduck"
+                                    },
+                                    {
+                                        "name": "Golduck"
+                                    },
+                                    {
+                                        "name": "Poliwag"
+                                    },
+                                    {
+                                        "name": "Poliwhirl"
+                                    },
+                                    {
+                                        "name": "Seel"
+                                    },
+                                    {
+                                        "name": "Shellder"
+                                    },
+                                    {
+                                        "name": "Krabby"
+                                    },
+                                    {
+                                        "name": "Kingler"
+                                    },
+                                    {
+                                        "name": "Horsea"
+                                    },
+                                    {
+                                        "name": "Seadra"
+                                    },
+                                    {
+                                        "name": "Goldeen"
+                                    },
+                                    {
+                                        "name": "Seaking"
+                                    },
+                                    {
+                                        "name": "Staryu"
+                                    },
+                                    {
+                                        "name": "Magikarp"
+                                    },
+                                    {
+                                        "name": "Vaporeon"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fighting",
+                                "children": [
+                                    {
+                                        "name": "Poliwrath"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Tentacool"
+                                    },
+                                    {
+                                        "name": "Tentacruel"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Slowpoke"
+                                    },
+                                    {
+                                        "name": "Slowbro"
+                                    },
+                                    {
+                                        "name": "SlowbroMega Slowbro"
+                                    },
+                                    {
+                                        "name": "Starmie"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ice",
+                                "children": [
+                                    {
+                                        "name": "Dewgong"
+                                    },
+                                    {
+                                        "name": "Cloyster"
+                                    },
+                                    {
+                                        "name": "Lapras"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Gyarados"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dark",
+                                "children": [
+                                    {
+                                        "name": "GyaradosMega Gyarados"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bug",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Caterpie"
+                                    },
+                                    {
+                                        "name": "Metapod"
+                                    },
+                                    {
+                                        "name": "Pinsir"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Butterfree"
+                                    },
+                                    {
+                                        "name": "Scyther"
+                                    },
+                                    {
+                                        "name": "PinsirMega Pinsir"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Weedle"
+                                    },
+                                    {
+                                        "name": "Kakuna"
+                                    },
+                                    {
+                                        "name": "Beedrill"
+                                    },
+                                    {
+                                        "name": "BeedrillMega Beedrill"
+                                    },
+                                    {
+                                        "name": "Venonat"
+                                    },
+                                    {
+                                        "name": "Venomoth"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Grass",
+                                "children": [
+                                    {
+                                        "name": "Paras"
+                                    },
+                                    {
+                                        "name": "Parasect"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Normal",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Pidgey"
+                                    },
+                                    {
+                                        "name": "Pidgeotto"
+                                    },
+                                    {
+                                        "name": "Pidgeot"
+                                    },
+                                    {
+                                        "name": "PidgeotMega Pidgeot"
+                                    },
+                                    {
+                                        "name": "Spearow"
+                                    },
+                                    {
+                                        "name": "Fearow"
+                                    },
+                                    {
+                                        "name": "Farfetch'd"
+                                    },
+                                    {
+                                        "name": "Doduo"
+                                    },
+                                    {
+                                        "name": "Dodrio"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Rattata"
+                                    },
+                                    {
+                                        "name": "Raticate"
+                                    },
+                                    {
+                                        "name": "Meowth"
+                                    },
+                                    {
+                                        "name": "Persian"
+                                    },
+                                    {
+                                        "name": "Lickitung"
+                                    },
+                                    {
+                                        "name": "Chansey"
+                                    },
+                                    {
+                                        "name": "Kangaskhan"
+                                    },
+                                    {
+                                        "name": "KangaskhanMega Kangaskhan"
+                                    },
+                                    {
+                                        "name": "Tauros"
+                                    },
+                                    {
+                                        "name": "Ditto"
+                                    },
+                                    {
+                                        "name": "Eevee"
+                                    },
+                                    {
+                                        "name": "Porygon"
+                                    },
+                                    {
+                                        "name": "Snorlax"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "Jigglypuff"
+                                    },
+                                    {
+                                        "name": "Wigglytuff"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poison",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Ekans"
+                                    },
+                                    {
+                                        "name": "Arbok"
+                                    },
+                                    {
+                                        "name": "Nidoran\u2640"
+                                    },
+                                    {
+                                        "name": "Nidorina"
+                                    },
+                                    {
+                                        "name": "Nidoran\u2642"
+                                    },
+                                    {
+                                        "name": "Nidorino"
+                                    },
+                                    {
+                                        "name": "Grimer"
+                                    },
+                                    {
+                                        "name": "Muk"
+                                    },
+                                    {
+                                        "name": "Koffing"
+                                    },
+                                    {
+                                        "name": "Weezing"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Nidoqueen"
+                                    },
+                                    {
+                                        "name": "Nidoking"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Zubat"
+                                    },
+                                    {
+                                        "name": "Golbat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Pikachu"
+                                    },
+                                    {
+                                        "name": "Raichu"
+                                    },
+                                    {
+                                        "name": "Voltorb"
+                                    },
+                                    {
+                                        "name": "Electrode"
+                                    },
+                                    {
+                                        "name": "Electabuzz"
+                                    },
+                                    {
+                                        "name": "Jolteon"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Steel",
+                                "children": [
+                                    {
+                                        "name": "Magnemite"
+                                    },
+                                    {
+                                        "name": "Magneton"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ground",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Sandshrew"
+                                    },
+                                    {
+                                        "name": "Sandslash"
+                                    },
+                                    {
+                                        "name": "Diglett"
+                                    },
+                                    {
+                                        "name": "Dugtrio"
+                                    },
+                                    {
+                                        "name": "Cubone"
+                                    },
+                                    {
+                                        "name": "Marowak"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rock",
+                                "children": [
+                                    {
+                                        "name": "Rhyhorn"
+                                    },
+                                    {
+                                        "name": "Rhydon"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fairy",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Clefairy"
+                                    },
+                                    {
+                                        "name": "Clefable"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fighting",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Mankey"
+                                    },
+                                    {
+                                        "name": "Primeape"
+                                    },
+                                    {
+                                        "name": "Machop"
+                                    },
+                                    {
+                                        "name": "Machoke"
+                                    },
+                                    {
+                                        "name": "Machamp"
+                                    },
+                                    {
+                                        "name": "Hitmonlee"
+                                    },
+                                    {
+                                        "name": "Hitmonchan"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psychic",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Abra"
+                                    },
+                                    {
+                                        "name": "Kadabra"
+                                    },
+                                    {
+                                        "name": "Alakazam"
+                                    },
+                                    {
+                                        "name": "AlakazamMega Alakazam"
+                                    },
+                                    {
+                                        "name": "Drowzee"
+                                    },
+                                    {
+                                        "name": "Hypno"
+                                    },
+                                    {
+                                        "name": "Mew"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "Mr. Mime"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rock",
+                        "children": [
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Geodude"
+                                    },
+                                    {
+                                        "name": "Graveler"
+                                    },
+                                    {
+                                        "name": "Golem"
+                                    },
+                                    {
+                                        "name": "Onix"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Water",
+                                "children": [
+                                    {
+                                        "name": "Omanyte"
+                                    },
+                                    {
+                                        "name": "Omastar"
+                                    },
+                                    {
+                                        "name": "Kabuto"
+                                    },
+                                    {
+                                        "name": "Kabutops"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Aerodactyl"
+                                    },
+                                    {
+                                        "name": "AerodactylMega Aerodactyl"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ghost",
+                        "children": [
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Gastly"
+                                    },
+                                    {
+                                        "name": "Haunter"
+                                    },
+                                    {
+                                        "name": "Gengar"
+                                    },
+                                    {
+                                        "name": "GengarMega Gengar"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice",
+                        "children": [
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Jynx"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dragon",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Dratini"
+                                    },
+                                    {
+                                        "name": "Dragonair"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Dragonite"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Legendary",
+                "children": [
+                    {
+                        "name": "Ice",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Articuno"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Zapdos"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fire",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Moltres"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psychic",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Mewtwo"
+                                    },
+                                    {
+                                        "name": "MewtwoMega Mewtwo Y"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fighting",
+                                "children": [
+                                    {
+                                        "name": "MewtwoMega Mewtwo X"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gen 2",
+        "children": [
+            {
+                "name": "Not Legendary",
+                "children": [
+                    {
+                        "name": "Grass",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Chikorita"
+                                    },
+                                    {
+                                        "name": "Bayleef"
+                                    },
+                                    {
+                                        "name": "Meganium"
+                                    },
+                                    {
+                                        "name": "Bellossom"
+                                    },
+                                    {
+                                        "name": "Sunkern"
+                                    },
+                                    {
+                                        "name": "Sunflora"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Hoppip"
+                                    },
+                                    {
+                                        "name": "Skiploom"
+                                    },
+                                    {
+                                        "name": "Jumpluff"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fire",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Cyndaquil"
+                                    },
+                                    {
+                                        "name": "Quilava"
+                                    },
+                                    {
+                                        "name": "Typhlosion"
+                                    },
+                                    {
+                                        "name": "Slugma"
+                                    },
+                                    {
+                                        "name": "Magby"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rock",
+                                "children": [
+                                    {
+                                        "name": "Magcargo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Water",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Totodile"
+                                    },
+                                    {
+                                        "name": "Croconaw"
+                                    },
+                                    {
+                                        "name": "Feraligatr"
+                                    },
+                                    {
+                                        "name": "Politoed"
+                                    },
+                                    {
+                                        "name": "Remoraid"
+                                    },
+                                    {
+                                        "name": "Octillery"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Electric",
+                                "children": [
+                                    {
+                                        "name": "Chinchou"
+                                    },
+                                    {
+                                        "name": "Lanturn"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "Marill"
+                                    },
+                                    {
+                                        "name": "Azumarill"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Wooper"
+                                    },
+                                    {
+                                        "name": "Quagsire"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Slowking"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Qwilfish"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rock",
+                                "children": [
+                                    {
+                                        "name": "Corsola"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Mantine"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dragon",
+                                "children": [
+                                    {
+                                        "name": "Kingdra"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Normal",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Sentret"
+                                    },
+                                    {
+                                        "name": "Furret"
+                                    },
+                                    {
+                                        "name": "Aipom"
+                                    },
+                                    {
+                                        "name": "Dunsparce"
+                                    },
+                                    {
+                                        "name": "Teddiursa"
+                                    },
+                                    {
+                                        "name": "Ursaring"
+                                    },
+                                    {
+                                        "name": "Porygon2"
+                                    },
+                                    {
+                                        "name": "Stantler"
+                                    },
+                                    {
+                                        "name": "Smeargle"
+                                    },
+                                    {
+                                        "name": "Miltank"
+                                    },
+                                    {
+                                        "name": "Blissey"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Hoothoot"
+                                    },
+                                    {
+                                        "name": "Noctowl"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "Igglybuff"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Girafarig"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bug",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Ledyba"
+                                    },
+                                    {
+                                        "name": "Ledian"
+                                    },
+                                    {
+                                        "name": "Yanma"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Spinarak"
+                                    },
+                                    {
+                                        "name": "Ariados"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Pineco"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Steel",
+                                "children": [
+                                    {
+                                        "name": "Forretress"
+                                    },
+                                    {
+                                        "name": "Scizor"
+                                    },
+                                    {
+                                        "name": "ScizorMega Scizor"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rock",
+                                "children": [
+                                    {
+                                        "name": "Shuckle"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fighting",
+                                "children": [
+                                    {
+                                        "name": "Heracross"
+                                    },
+                                    {
+                                        "name": "HeracrossMega Heracross"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poison",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Crobat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Pichu"
+                                    },
+                                    {
+                                        "name": "Mareep"
+                                    },
+                                    {
+                                        "name": "Flaaffy"
+                                    },
+                                    {
+                                        "name": "Ampharos"
+                                    },
+                                    {
+                                        "name": "Elekid"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dragon",
+                                "children": [
+                                    {
+                                        "name": "AmpharosMega Ampharos"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fairy",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Cleffa"
+                                    },
+                                    {
+                                        "name": "Togepi"
+                                    },
+                                    {
+                                        "name": "Snubbull"
+                                    },
+                                    {
+                                        "name": "Granbull"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Togetic"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psychic",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Natu"
+                                    },
+                                    {
+                                        "name": "Xatu"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Espeon"
+                                    },
+                                    {
+                                        "name": "Unown"
+                                    },
+                                    {
+                                        "name": "Wobbuffet"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Grass",
+                                "children": [
+                                    {
+                                        "name": "Celebi"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rock",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Sudowoodo"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Larvitar"
+                                    },
+                                    {
+                                        "name": "Pupitar"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dark",
+                                "children": [
+                                    {
+                                        "name": "Tyranitar"
+                                    },
+                                    {
+                                        "name": "TyranitarMega Tyranitar"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Umbreon"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Murkrow"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ice",
+                                "children": [
+                                    {
+                                        "name": "Sneasel"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fire",
+                                "children": [
+                                    {
+                                        "name": "Houndour"
+                                    },
+                                    {
+                                        "name": "Houndoom"
+                                    },
+                                    {
+                                        "name": "HoundoomMega Houndoom"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ghost",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Misdreavus"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ground",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Gligar"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Phanpy"
+                                    },
+                                    {
+                                        "name": "Donphan"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Steel",
+                        "children": [
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Steelix"
+                                    },
+                                    {
+                                        "name": "SteelixMega Steelix"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Skarmory"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice",
+                        "children": [
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Swinub"
+                                    },
+                                    {
+                                        "name": "Piloswine"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Delibird"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Smoochum"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fighting",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Tyrogue"
+                                    },
+                                    {
+                                        "name": "Hitmontop"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Legendary",
+                "children": [
+                    {
+                        "name": "Electric",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Raikou"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fire",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Entei"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Ho-oh"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Water",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Suicune"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psychic",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Lugia"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gen 3",
+        "children": [
+            {
+                "name": "Not Legendary",
+                "children": [
+                    {
+                        "name": "Grass",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Treecko"
+                                    },
+                                    {
+                                        "name": "Grovyle"
+                                    },
+                                    {
+                                        "name": "Sceptile"
+                                    },
+                                    {
+                                        "name": "Seedot"
+                                    },
+                                    {
+                                        "name": "Shroomish"
+                                    },
+                                    {
+                                        "name": "Cacnea"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dragon",
+                                "children": [
+                                    {
+                                        "name": "SceptileMega Sceptile"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dark",
+                                "children": [
+                                    {
+                                        "name": "Nuzleaf"
+                                    },
+                                    {
+                                        "name": "Shiftry"
+                                    },
+                                    {
+                                        "name": "Cacturne"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fighting",
+                                "children": [
+                                    {
+                                        "name": "Breloom"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Roselia"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Tropius"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fire",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Torchic"
+                                    },
+                                    {
+                                        "name": "Torkoal"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fighting",
+                                "children": [
+                                    {
+                                        "name": "Combusken"
+                                    },
+                                    {
+                                        "name": "Blaziken"
+                                    },
+                                    {
+                                        "name": "BlazikenMega Blaziken"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Numel"
+                                    },
+                                    {
+                                        "name": "Camerupt"
+                                    },
+                                    {
+                                        "name": "CameruptMega Camerupt"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Water",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Mudkip"
+                                    },
+                                    {
+                                        "name": "Wailmer"
+                                    },
+                                    {
+                                        "name": "Wailord"
+                                    },
+                                    {
+                                        "name": "Corphish"
+                                    },
+                                    {
+                                        "name": "Feebas"
+                                    },
+                                    {
+                                        "name": "Milotic"
+                                    },
+                                    {
+                                        "name": "Clamperl"
+                                    },
+                                    {
+                                        "name": "Huntail"
+                                    },
+                                    {
+                                        "name": "Gorebyss"
+                                    },
+                                    {
+                                        "name": "Luvdisc"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Marshtomp"
+                                    },
+                                    {
+                                        "name": "Swampert"
+                                    },
+                                    {
+                                        "name": "SwampertMega Swampert"
+                                    },
+                                    {
+                                        "name": "Barboach"
+                                    },
+                                    {
+                                        "name": "Whiscash"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Grass",
+                                "children": [
+                                    {
+                                        "name": "Lotad"
+                                    },
+                                    {
+                                        "name": "Lombre"
+                                    },
+                                    {
+                                        "name": "Ludicolo"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Wingull"
+                                    },
+                                    {
+                                        "name": "Pelipper"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dark",
+                                "children": [
+                                    {
+                                        "name": "Carvanha"
+                                    },
+                                    {
+                                        "name": "Sharpedo"
+                                    },
+                                    {
+                                        "name": "SharpedoMega Sharpedo"
+                                    },
+                                    {
+                                        "name": "Crawdaunt"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rock",
+                                "children": [
+                                    {
+                                        "name": "Relicanth"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Poochyena"
+                                    },
+                                    {
+                                        "name": "Mightyena"
+                                    },
+                                    {
+                                        "name": "Absol"
+                                    },
+                                    {
+                                        "name": "AbsolMega Absol"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ghost",
+                                "children": [
+                                    {
+                                        "name": "Sableye"
+                                    },
+                                    {
+                                        "name": "SableyeMega Sableye"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Normal",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Zigzagoon"
+                                    },
+                                    {
+                                        "name": "Linoone"
+                                    },
+                                    {
+                                        "name": "Slakoth"
+                                    },
+                                    {
+                                        "name": "Vigoroth"
+                                    },
+                                    {
+                                        "name": "Slaking"
+                                    },
+                                    {
+                                        "name": "Whismur"
+                                    },
+                                    {
+                                        "name": "Loudred"
+                                    },
+                                    {
+                                        "name": "Exploud"
+                                    },
+                                    {
+                                        "name": "Skitty"
+                                    },
+                                    {
+                                        "name": "Delcatty"
+                                    },
+                                    {
+                                        "name": "Spinda"
+                                    },
+                                    {
+                                        "name": "Zangoose"
+                                    },
+                                    {
+                                        "name": "Castform"
+                                    },
+                                    {
+                                        "name": "Kecleon"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Taillow"
+                                    },
+                                    {
+                                        "name": "Swellow"
+                                    },
+                                    {
+                                        "name": "Swablu"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "Azurill"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bug",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Wurmple"
+                                    },
+                                    {
+                                        "name": "Silcoon"
+                                    },
+                                    {
+                                        "name": "Cascoon"
+                                    },
+                                    {
+                                        "name": "Volbeat"
+                                    },
+                                    {
+                                        "name": "Illumise"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Beautifly"
+                                    },
+                                    {
+                                        "name": "Masquerain"
+                                    },
+                                    {
+                                        "name": "Ninjask"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Poison",
+                                "children": [
+                                    {
+                                        "name": "Dustox"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Water",
+                                "children": [
+                                    {
+                                        "name": "Surskit"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ground",
+                                "children": [
+                                    {
+                                        "name": "Nincada"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ghost",
+                                "children": [
+                                    {
+                                        "name": "Shedinja"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psychic",
+                        "children": [
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "Ralts"
+                                    },
+                                    {
+                                        "name": "Kirlia"
+                                    },
+                                    {
+                                        "name": "Gardevoir"
+                                    },
+                                    {
+                                        "name": "GardevoirMega Gardevoir"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Spoink"
+                                    },
+                                    {
+                                        "name": "Grumpig"
+                                    },
+                                    {
+                                        "name": "Chimecho"
+                                    },
+                                    {
+                                        "name": "Wynaut"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fighting",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Makuhita"
+                                    },
+                                    {
+                                        "name": "Hariyama"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Meditite"
+                                    },
+                                    {
+                                        "name": "Medicham"
+                                    },
+                                    {
+                                        "name": "MedichamMega Medicham"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rock",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Nosepass"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Lunatone"
+                                    },
+                                    {
+                                        "name": "Solrock"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Grass",
+                                "children": [
+                                    {
+                                        "name": "Lileep"
+                                    },
+                                    {
+                                        "name": "Cradily"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bug",
+                                "children": [
+                                    {
+                                        "name": "Anorith"
+                                    },
+                                    {
+                                        "name": "Armaldo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Steel",
+                        "children": [
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "Mawile"
+                                    },
+                                    {
+                                        "name": "MawileMega Mawile"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Rock",
+                                "children": [
+                                    {
+                                        "name": "Aron"
+                                    },
+                                    {
+                                        "name": "Lairon"
+                                    },
+                                    {
+                                        "name": "Aggron"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "AggronMega Aggron"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Beldum"
+                                    },
+                                    {
+                                        "name": "Metang"
+                                    },
+                                    {
+                                        "name": "Metagross"
+                                    },
+                                    {
+                                        "name": "MetagrossMega Metagross"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Electric",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Electrike"
+                                    },
+                                    {
+                                        "name": "Manectric"
+                                    },
+                                    {
+                                        "name": "ManectricMega Manectric"
+                                    },
+                                    {
+                                        "name": "Plusle"
+                                    },
+                                    {
+                                        "name": "Minun"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poison",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Gulpin"
+                                    },
+                                    {
+                                        "name": "Swalot"
+                                    },
+                                    {
+                                        "name": "Seviper"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ground",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Trapinch"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Dragon",
+                                "children": [
+                                    {
+                                        "name": "Vibrava"
+                                    },
+                                    {
+                                        "name": "Flygon"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Baltoy"
+                                    },
+                                    {
+                                        "name": "Claydol"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dragon",
+                        "children": [
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Altaria"
+                                    },
+                                    {
+                                        "name": "Salamence"
+                                    },
+                                    {
+                                        "name": "SalamenceMega Salamence"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fairy",
+                                "children": [
+                                    {
+                                        "name": "AltariaMega Altaria"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Bagon"
+                                    },
+                                    {
+                                        "name": "Shelgon"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ghost",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Shuppet"
+                                    },
+                                    {
+                                        "name": "Banette"
+                                    },
+                                    {
+                                        "name": "BanetteMega Banette"
+                                    },
+                                    {
+                                        "name": "Duskull"
+                                    },
+                                    {
+                                        "name": "Dusclops"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Snorunt"
+                                    },
+                                    {
+                                        "name": "Glalie"
+                                    },
+                                    {
+                                        "name": "GlalieMega Glalie"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Water",
+                                "children": [
+                                    {
+                                        "name": "Spheal"
+                                    },
+                                    {
+                                        "name": "Sealeo"
+                                    },
+                                    {
+                                        "name": "Walrein"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Legendary",
+                "children": [
+                    {
+                        "name": "Rock",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Regirock"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Regice"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Steel",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Registeel"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Jirachi"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dragon",
+                        "children": [
+                            {
+                                "name": "Psychic",
+                                "children": [
+                                    {
+                                        "name": "Latias"
+                                    },
+                                    {
+                                        "name": "LatiasMega Latias"
+                                    },
+                                    {
+                                        "name": "Latios"
+                                    },
+                                    {
+                                        "name": "LatiosMega Latios"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Flying",
+                                "children": [
+                                    {
+                                        "name": "Rayquaza"
+                                    },
+                                    {
+                                        "name": "RayquazaMega Rayquaza"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Water",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Kyogre"
+                                    },
+                                    {
+                                        "name": "KyogrePrimal Kyogre"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ground",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "Groudon"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fire",
+                                "children": [
+                                    {
+                                        "name": "GroudonPrimal Groudon"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Psychic",
+                        "children": [
+                            {
+                                "name": "None",
+                                "children": [
+                                    {
+                                        "name": "DeoxysNormal Forme"
+                                    },
+                                    {
+                                        "name": "DeoxysAttack Forme"
+                                    },
+                                    {
+                                        "name": "DeoxysDefense Forme"
+                                    },
+                                    {
+                                        "name": "DeoxysSpeed Forme"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
+}
+]

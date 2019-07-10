@@ -4,8 +4,7 @@
     justify-content: space-between;
 }
 
-
-#main-container{
+%container{
     width: 1250px;
 height: 179px;
 border: solid #D7D7D7;
@@ -16,6 +15,10 @@ margin-top: 40px;
 background-color: #6FA9D1;
 border-radius: 15px;
 color: black;
+}
+
+#main-container{
+@extend %container;
 }
 
 #main-flexbox{
@@ -30,4 +33,23 @@ color: black;
     display: flex;
     justify-content: space-between;
     width: 450px;
+}
+
+#main-flexbox-genButtons{
+    @extend %flex-container;
+    flex-direction: row;
+    width: 850px;
+}
+
+#main-container-genButtons{
+    @extend %container;
+    @extend %flex-container;
+    align-items: center;
+    justify-content: center;
+}
+
+#column-container{
+    @extend %flex-container;
+    align-items: center;
+    height:130px;
 }

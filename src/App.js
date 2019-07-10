@@ -17,11 +17,13 @@ class App extends React.Component {
       traversalPath: [],
       isTree: false
      }
+     this.gen1 = "./gen1_tree.json";
+     this.gen123 = "./gen123.json";
   }
 
   drawGenerate = genType => {
     d3.select("svg").remove();
-    d3.json("./gen1_tree.json").then(function(treeData) {
+    d3.json(this.gen1).then(function(treeData) {
       var data = treeData[0];
 
       // TREE DIAGRAM
@@ -115,25 +117,21 @@ class App extends React.Component {
           fringe.push(root.children[i]);
           for (let j = 0; j < root.children[i].children.length; j++) {
             fringe.push(root.children[i].children[j]);
-            for (
-              let k = 0;
-              k < root.children[i].children[j].children.length;
-              k++
-            ) {
+            for (let k = 0;k < root.children[i].children[j].children.length;k++) {
               fringe.push(root.children[i].children[j].children[k]);
-              for (
-                let l = 0;
-                l < root.children[i].children[j].children[k].children.length;
-                l++
-              ) {
-                fringe.push(
-                  root.children[i].children[j].children[k].children[l]
-                );
+              for (let l = 0;l < root.children[i].children[j].children[k].children.length;l++) {
+                fringe.push(root.children[i].children[j].children[k].children[l]);
+                for(let m = 0;m <root.children[i].children[j].children[k].children[l].children.length;m++) {
+                  fringe.push(
+										root.children[i].children[j].children[k]
+											.children[l].children[m]
+									);
+                }
               }
             }
           }
         }
-        console.log("fringe", fringe);
+        // console.log(fringe)
         return fringe;
       };
       // var d = get_deep(root)
@@ -281,7 +279,7 @@ class App extends React.Component {
   // genType: bfs/dfs
   drawTraversal = genType => {
     d3.select("svg").remove();
-    d3.json("gen1_tree.json").then(treeData => {
+    d3.json(this.gen1).then(treeData => {
       var data = treeData[0];
       var i = 0;
       var goal = this.state.searchInput;
@@ -383,7 +381,7 @@ class App extends React.Component {
         .select("circle")
           .transition()
           .duration(500)
-          .delay(500 * animate)
+          .delay(100 * animate)
           .style("fill", "red")
           // .style("stroke", "red");,
       // };
@@ -395,7 +393,7 @@ class App extends React.Component {
                     .select("circle")
 					.transition()
 					.duration(500)
-					.delay(500 * animate)
+					.delay(100 * animate)
 					.style("fill", "blue")
 					.style("stroke","blue");
             };
@@ -452,7 +450,7 @@ class App extends React.Component {
           }
         }
       };
-        
+
       
       genType === 'bfs' ? bft(root,goal): dft(root, goal);
 
@@ -482,6 +480,7 @@ class App extends React.Component {
       case(true):
         return(
         <InfoSearch
+        treeOp="generation"
         arrayType = "Queue"
         array = {JSON.stringify(tempArr1)}
         resultsType = "Visited"
@@ -491,6 +490,7 @@ class App extends React.Component {
       case(false):
           return(
           <InfoSearch
+            treeOp="traversal"
             arrayType = "Full Path"
             
             array = {this.state.traversalPath.length > 0 ? JSON.stringify([
